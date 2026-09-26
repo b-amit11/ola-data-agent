@@ -1,0 +1,1201 @@
+ride_id,user_id,vehicle_id,ride_date,city,status,distance_km,fare_inr
+1,181,28,2026-01-09,Hyderabad,Completed,8.17,181.8
+2,198,75,2026-03-31,Bengaluru,Completed,26.82,467.6
+3,100,54,2026-03-10,Pune,Completed,30.22,512.07
+4,87,52,2026-01-22,Hyderabad,Completed,14.51,298.71
+5,7,11,2026-03-24,Hyderabad,Completed,13.21,237.4
+6,87,49,2026-02-05,Hyderabad,Completed,11.15,214.97
+7,58,9,2026-03-25,Bengaluru,Driver Cancelled,2.61,123.02
+8,6,80,2026-01-20,Mumbai,Completed,30.44,478.1
+9,95,22,2026-03-19,Pune,Completed,15.42,313.89
+10,80,74,2026-03-28,Hyderabad,Completed,4.35,127.72
+11,179,39,2026-03-29,Pune,Completed,26.75,463.8
+12,95,9,2026-03-06,Delhi,Completed,11.76,210.34
+13,213,59,2026-01-20,Hyderabad,Completed,30.78,485.61
+14,124,60,2026-02-25,Pune,Completed,26.05,424.46
+15,146,79,2026-03-27,Hyderabad,Completed,14.97,273.08
+16,88,36,2026-03-18,Delhi,Customer Cancelled,7.58,181.69
+17,62,53,2026-03-04,Pune,Completed,17.02,324.98
+18,76,29,2026-02-21,Mumbai,Completed,14.89,270.3
+19,141,43,2026-02-15,Hyderabad,Driver Cancelled,11.66,223.14
+20,50,41,2026-01-16,Pune,Completed,8.79,220.36
+21,195,68,2026-03-18,Delhi,Completed,16.01,323.07
+22,137,17,2026-02-05,Bengaluru,Completed,6.56,190.43
+23,27,2,2026-03-15,Delhi,Completed,20.77,361.6
+24,30,9,2026-02-21,Hyderabad,Customer Cancelled,8.83,172.69
+25,39,73,2026-02-08,Bengaluru,Completed,20.51,386.81
+26,134,49,2026-02-27,Hyderabad,Completed,25.51,418.49
+27,190,13,2026-01-27,Mumbai,Completed,20.25,343.06
+28,116,77,2026-03-02,Delhi,Completed,3.33,93.42
+29,237,34,2026-03-22,Pune,Completed,15.07,292.35
+30,69,19,2026-01-10,Bengaluru,Completed,7.97,165.71
+31,120,39,2026-03-31,Hyderabad,Completed,29.56,510.69
+32,189,42,2026-03-19,Delhi,Customer Cancelled,19.54,319.98
+33,221,74,2026-03-17,Bengaluru,Completed,8.1,213.38
+34,133,57,2026-02-05,Mumbai,Completed,24.66,445.07
+35,83,14,2026-01-21,Delhi,Completed,15.57,285.62
+36,117,12,2026-02-10,Delhi,Completed,26.22,429.86
+37,223,70,2026-03-01,Hyderabad,Completed,26.57,419.96
+38,53,35,2026-03-12,Mumbai,Completed,20.39,381.48
+39,205,31,2026-01-21,Delhi,Completed,1.89,101.76
+40,243,16,2026-03-24,Mumbai,Completed,27.08,451.53
+41,121,32,2026-02-28,Pune,Completed,13.88,247.28
+42,71,54,2026-02-13,Pune,Customer Cancelled,28.26,455.33
+43,215,76,2026-03-16,Hyderabad,Completed,1.08,107.71
+44,117,42,2026-01-25,Mumbai,Completed,18.11,329.99
+45,208,49,2026-02-19,Mumbai,Completed,24.09,409.5
+46,217,57,2026-01-13,Pune,Completed,11.29,253.13
+47,121,34,2026-02-13,Pune,Completed,21.3,381.3
+48,82,63,2026-03-11,Bengaluru,Completed,27.64,465.92
+49,112,13,2026-03-23,Bengaluru,Completed,31.92,516.28
+50,96,56,2026-01-19,Mumbai,Completed,25.68,433.73
+51,159,31,2026-03-05,Pune,Customer Cancelled,3.45,101.17
+52,66,2,2026-03-01,Delhi,Completed,15.3,296.47
+53,247,55,2026-03-30,Delhi,Completed,31.62,512.81
+54,92,74,2026-02-07,Delhi,Completed,4.31,106.55
+55,191,7,2026-03-19,Hyderabad,Completed,18.54,350.37
+56,159,33,2026-03-28,Mumbai,Completed,11.92,246.43
+57,94,17,2026-01-12,Delhi,Completed,25.45,419.27
+58,136,65,2026-02-04,Mumbai,Driver Cancelled,17.72,307.21
+59,207,38,2026-02-13,Bengaluru,Completed,26.57,442.74
+60,248,72,2026-02-16,Bengaluru,Driver Cancelled,23.45,416.79
+61,117,48,2026-03-28,Delhi,Completed,1.43,97.17
+62,227,72,2026-02-11,Pune,Completed,8.25,172.68
+63,36,6,2026-01-05,Delhi,Completed,10.37,244.96
+64,172,70,2026-02-23,Pune,Completed,5.21,158.76
+65,241,36,2026-01-05,Delhi,Completed,26.84,432.71
+66,140,46,2026-01-08,Hyderabad,Completed,4.08,117.29
+67,249,3,2026-01-07,Delhi,Completed,7.58,164.52
+68,151,28,2026-01-30,Delhi,Completed,26.72,461.67
+69,34,70,2026-02-02,Mumbai,Completed,27.61,437.59
+70,83,3,2026-01-23,Delhi,Completed,25.49,404.74
+71,93,66,2026-03-17,Bengaluru,Completed,2.97,111.44
+72,134,39,2026-02-28,Bengaluru,Customer Cancelled,25.28,402.27
+73,176,14,2026-03-04,Hyderabad,Completed,15.85,270.94
+74,150,71,2026-02-11,Hyderabad,Completed,4.91,168.44
+75,30,71,2026-01-28,Hyderabad,Customer Cancelled,14.34,270.6
+76,117,52,2026-02-23,Bengaluru,Completed,8.08,175.31
+77,18,12,2026-01-11,Bengaluru,Driver Cancelled,5.73,148.97
+78,34,72,2026-01-08,Pune,Completed,24.08,434.73
+79,193,55,2026-01-07,Delhi,Completed,11.96,245.46
+80,217,14,2026-02-14,Pune,Completed,5.8,146.42
+81,197,80,2026-03-20,Pune,Completed,14.3,246.64
+82,80,44,2026-02-14,Bengaluru,Completed,6.59,147.24
+83,8,12,2026-03-09,Mumbai,Completed,5.4,141.29
+84,146,77,2026-01-11,Bengaluru,Completed,23.37,380.74
+85,125,78,2026-02-26,Hyderabad,Completed,9.44,192.18
+86,152,63,2026-03-09,Delhi,Completed,4.44,109.66
+87,197,18,2026-02-02,Delhi,Driver Cancelled,7.34,165.81
+88,45,17,2026-02-18,Pune,Completed,1.24,101.06
+89,11,56,2026-01-03,Hyderabad,Customer Cancelled,3.23,140.88
+90,147,52,2026-03-23,Hyderabad,Completed,27.73,449.14
+91,177,47,2026-01-12,Hyderabad,Completed,30.38,516.77
+92,191,44,2026-01-29,Delhi,Customer Cancelled,3.44,136.01
+93,136,66,2026-01-25,Delhi,Completed,3.37,111.49
+94,51,23,2026-03-19,Mumbai,Completed,8.32,203.29
+95,145,75,2026-02-27,Pune,Completed,20.47,366.94
+96,18,61,2026-02-26,Delhi,Completed,20.44,374.96
+97,15,48,2026-02-06,Bengaluru,Completed,10.62,229.14
+98,142,6,2026-02-27,Pune,Completed,16.72,314.93
+99,208,44,2026-01-11,Pune,Completed,30.69,510.2
+100,41,47,2026-02-17,Delhi,Completed,14.62,270.99
+101,17,43,2026-01-13,Pune,Completed,25.47,438.89
+102,39,43,2026-01-11,Pune,Completed,30.9,514.1
+103,153,11,2026-02-09,Pune,Completed,22.65,382.82
+104,176,68,2026-01-12,Hyderabad,Completed,26.7,446.77
+105,125,25,2026-01-29,Mumbai,Driver Cancelled,7.64,160.48
+106,130,70,2026-03-09,Bengaluru,Customer Cancelled,10.17,223.79
+107,153,49,2026-01-20,Mumbai,Completed,28.17,449.33
+108,106,47,2026-03-28,Mumbai,Completed,6.13,184.15
+109,248,61,2026-01-25,Delhi,Completed,8.25,197.81
+110,136,54,2026-01-21,Mumbai,Completed,9.73,225.29
+111,240,14,2026-03-08,Bengaluru,Completed,15.9,283.28
+112,24,29,2026-02-27,Delhi,Customer Cancelled,16.91,332.92
+113,96,31,2026-02-19,Bengaluru,Completed,13.86,259.66
+114,36,5,2026-02-06,Hyderabad,Customer Cancelled,21.15,379.38
+115,115,79,2026-01-01,Bengaluru,Completed,5.3,120.25
+116,29,37,2026-01-31,Delhi,Completed,23.54,381.26
+117,232,64,2026-03-18,Pune,Completed,15.17,258.28
+118,91,31,2026-03-15,Hyderabad,Completed,10.03,195.72
+119,130,65,2026-03-12,Bengaluru,Completed,3.1,109.87
+120,92,9,2026-02-14,Mumbai,Completed,12.57,261.29
+121,140,44,2026-03-24,Mumbai,Completed,11.31,249.01
+122,184,59,2026-01-05,Delhi,Completed,6.65,149.19
+123,209,70,2026-03-02,Delhi,Completed,10.61,195.55
+124,85,35,2026-01-16,Delhi,Customer Cancelled,25.21,421.97
+125,245,50,2026-02-13,Mumbai,Completed,13.4,259.89
+126,111,78,2026-01-24,Pune,Completed,3.56,111.0
+127,110,22,2026-03-30,Hyderabad,Completed,10.5,211.34
+128,203,8,2026-01-10,Hyderabad,Completed,14.48,267.7
+129,174,57,2026-01-05,Mumbai,Customer Cancelled,1.97,76.28
+130,99,73,2026-01-05,Pune,Completed,25.13,405.26
+131,136,47,2026-02-20,Delhi,Completed,24.66,425.97
+132,234,72,2026-01-16,Delhi,Completed,6.77,182.4
+133,126,26,2026-01-16,Mumbai,Driver Cancelled,9.85,229.81
+134,114,12,2026-03-29,Delhi,Customer Cancelled,15.01,291.87
+135,75,39,2026-01-21,Mumbai,Completed,23.0,410.65
+136,127,4,2026-02-16,Pune,Completed,25.55,434.18
+137,102,62,2026-03-09,Hyderabad,Completed,28.41,485.04
+138,120,67,2026-02-14,Mumbai,Completed,10.83,244.91
+139,129,8,2026-01-16,Pune,Completed,24.8,400.62
+140,133,37,2026-01-11,Delhi,Driver Cancelled,7.99,167.66
+141,161,39,2026-03-20,Pune,Completed,30.65,479.24
+142,185,78,2026-02-13,Pune,Completed,5.78,128.19
+143,167,27,2026-03-15,Hyderabad,Completed,20.89,371.46
+144,63,52,2026-02-08,Hyderabad,Completed,20.9,341.61
+145,37,41,2026-02-10,Delhi,Completed,15.4,314.25
+146,32,35,2026-02-27,Mumbai,Completed,4.29,112.81
+147,231,21,2026-02-11,Pune,Driver Cancelled,13.96,280.1
+148,132,60,2026-03-05,Delhi,Completed,6.88,168.68
+149,91,7,2026-01-07,Delhi,Completed,30.97,505.8
+150,28,56,2026-01-18,Delhi,Completed,9.86,223.05
+151,93,71,2026-02-06,Bengaluru,Completed,2.59,102.51
+152,31,17,2026-01-13,Hyderabad,Completed,31.66,508.77
+153,131,52,2026-03-06,Bengaluru,Completed,24.4,389.09
+154,229,66,2026-01-18,Delhi,Completed,17.1,335.63
+155,87,65,2026-03-07,Pune,Completed,23.92,406.82
+156,107,75,2026-02-09,Bengaluru,Completed,12.42,251.71
+157,185,7,2026-03-16,Hyderabad,Completed,25.06,405.22
+158,63,5,2026-03-15,Bengaluru,Customer Cancelled,12.79,234.55
+159,106,27,2026-02-22,Pune,Completed,14.67,293.0
+160,144,42,2026-03-26,Hyderabad,Completed,22.88,394.22
+161,174,34,2026-03-20,Hyderabad,Completed,17.53,300.99
+162,198,37,2026-01-27,Hyderabad,Driver Cancelled,30.19,485.1
+163,204,36,2026-02-06,Bengaluru,Driver Cancelled,11.81,241.88
+164,102,45,2026-01-19,Delhi,Customer Cancelled,17.84,297.07
+165,237,57,2026-03-25,Delhi,Completed,30.61,514.64
+166,28,79,2026-03-17,Mumbai,Completed,18.42,316.22
+167,85,61,2026-01-13,Mumbai,Completed,8.22,160.36
+168,123,26,2026-02-06,Delhi,Customer Cancelled,29.99,480.56
+169,167,74,2026-01-30,Pune,Completed,2.83,125.25
+170,46,5,2026-02-20,Hyderabad,Customer Cancelled,6.43,145.27
+171,75,5,2026-01-02,Delhi,Customer Cancelled,24.22,415.32
+172,73,59,2026-03-24,Pune,Driver Cancelled,4.33,134.46
+173,130,60,2026-02-04,Mumbai,Completed,28.57,489.46
+174,189,44,2026-02-07,Pune,Completed,8.98,207.81
+175,132,42,2026-01-12,Hyderabad,Customer Cancelled,28.81,485.15
+176,83,32,2026-01-01,Delhi,Completed,6.73,160.32
+177,3,34,2026-03-25,Delhi,Completed,10.36,228.14
+178,237,40,2026-03-30,Bengaluru,Completed,5.95,163.43
+179,40,59,2026-03-19,Delhi,Completed,7.79,176.93
+180,196,32,2026-03-29,Pune,Customer Cancelled,25.86,455.06
+181,181,47,2026-01-10,Pune,Completed,3.54,100.73
+182,219,67,2026-02-26,Bengaluru,Completed,17.64,329.38
+183,117,17,2026-03-07,Hyderabad,Customer Cancelled,16.82,305.6
+184,207,40,2026-01-03,Hyderabad,Completed,2.79,98.06
+185,17,70,2026-01-08,Bengaluru,Completed,2.4,132.84
+186,187,54,2026-02-17,Hyderabad,Completed,24.84,417.43
+187,139,18,2026-03-25,Delhi,Completed,22.16,361.76
+188,1,3,2026-02-08,Hyderabad,Completed,23.56,411.88
+189,40,36,2026-01-25,Bengaluru,Completed,8.12,160.45
+190,53,9,2026-01-13,Pune,Completed,28.4,444.45
+191,113,30,2026-03-11,Mumbai,Completed,8.59,206.75
+192,188,74,2026-02-10,Pune,Customer Cancelled,9.97,217.47
+193,78,19,2026-03-26,Pune,Completed,21.85,363.06
+194,45,55,2026-03-13,Hyderabad,Completed,19.34,318.34
+195,107,53,2026-01-20,Delhi,Completed,25.36,420.75
+196,37,60,2026-01-08,Pune,Customer Cancelled,7.99,179.56
+197,100,32,2026-02-02,Mumbai,Completed,13.91,257.9
+198,49,7,2026-02-04,Hyderabad,Completed,3.87,136.23
+199,144,28,2026-03-03,Mumbai,Completed,24.61,437.36
+200,192,62,2026-02-01,Pune,Completed,6.89,180.17
+201,137,46,2026-02-09,Delhi,Completed,25.04,415.34
+202,215,41,2026-01-27,Delhi,Completed,31.42,502.09
+203,150,75,2026-02-23,Delhi,Completed,1.5,74.38
+204,242,44,2026-02-02,Hyderabad,Completed,8.62,218.84
+205,36,70,2026-03-04,Mumbai,Completed,23.72,427.51
+206,20,7,2026-01-01,Hyderabad,Customer Cancelled,17.24,293.92
+207,39,2,2026-01-28,Pune,Completed,20.55,357.78
+208,125,3,2026-01-01,Pune,Completed,20.11,356.88
+209,129,56,2026-01-23,Bengaluru,Completed,17.61,342.03
+210,69,51,2026-01-11,Delhi,Customer Cancelled,17.32,340.24
+211,179,29,2026-02-08,Bengaluru,Completed,15.23,294.18
+212,15,2,2026-03-31,Mumbai,Completed,12.76,228.19
+213,25,68,2026-01-06,Mumbai,Customer Cancelled,18.54,316.19
+214,122,35,2026-01-06,Bengaluru,Customer Cancelled,27.91,473.38
+215,169,5,2026-01-23,Delhi,Completed,9.69,181.52
+216,20,39,2026-01-21,Pune,Completed,23.09,381.49
+217,190,18,2026-03-30,Bengaluru,Completed,17.76,321.18
+218,155,79,2026-03-18,Hyderabad,Completed,8.2,213.09
+219,92,71,2026-02-18,Hyderabad,Completed,31.77,500.0
+220,183,10,2026-01-11,Delhi,Customer Cancelled,20.18,336.0
+221,190,50,2026-02-10,Delhi,Completed,23.06,373.7
+222,23,24,2026-02-25,Hyderabad,Completed,24.6,420.03
+223,154,42,2026-02-19,Bengaluru,Completed,11.97,228.63
+224,63,74,2026-03-08,Mumbai,Driver Cancelled,18.35,339.59
+225,69,64,2026-01-19,Bengaluru,Completed,6.25,141.7
+226,64,64,2026-03-18,Pune,Completed,3.38,103.08
+227,98,43,2026-02-26,Delhi,Customer Cancelled,13.27,254.46
+228,153,18,2026-02-08,Delhi,Completed,26.53,449.6
+229,75,63,2026-03-15,Mumbai,Driver Cancelled,30.9,495.52
+230,94,15,2026-03-14,Mumbai,Customer Cancelled,9.69,213.23
+231,141,4,2026-03-01,Mumbai,Completed,17.91,319.86
+232,173,64,2026-01-18,Delhi,Customer Cancelled,27.28,440.23
+233,203,49,2026-01-10,Hyderabad,Completed,21.42,399.37
+234,108,70,2026-01-05,Delhi,Customer Cancelled,29.63,498.41
+235,235,11,2026-01-14,Mumbai,Completed,26.18,447.69
+236,166,52,2026-02-12,Hyderabad,Completed,18.46,309.27
+237,148,29,2026-02-27,Delhi,Completed,17.08,305.63
+238,124,14,2026-02-07,Hyderabad,Driver Cancelled,5.67,175.01
+239,187,19,2026-02-14,Delhi,Customer Cancelled,3.66,115.11
+240,90,61,2026-01-13,Hyderabad,Completed,25.31,439.05
+241,218,44,2026-03-24,Bengaluru,Completed,26.12,447.92
+242,144,55,2026-03-01,Mumbai,Completed,6.41,178.62
+243,158,26,2026-02-27,Pune,Completed,14.4,270.23
+244,17,74,2026-01-14,Pune,Customer Cancelled,24.32,395.76
+245,68,63,2026-03-09,Delhi,Completed,11.11,233.37
+246,45,39,2026-03-20,Pune,Completed,11.91,216.4
+247,37,66,2026-02-19,Hyderabad,Completed,4.63,142.62
+248,166,23,2026-03-13,Mumbai,Completed,20.7,361.73
+249,244,2,2026-03-04,Mumbai,Customer Cancelled,20.2,338.53
+250,168,64,2026-02-22,Hyderabad,Completed,12.9,248.46
+251,57,38,2026-01-05,Delhi,Customer Cancelled,18.53,316.79
+252,145,64,2026-03-12,Pune,Customer Cancelled,9.95,190.53
+253,211,47,2026-03-11,Bengaluru,Completed,4.54,150.36
+254,193,32,2026-02-08,Bengaluru,Customer Cancelled,4.17,128.12
+255,113,16,2026-01-31,Mumbai,Customer Cancelled,11.81,254.93
+256,182,79,2026-03-22,Hyderabad,Completed,19.23,323.35
+257,137,36,2026-03-18,Pune,Completed,25.97,417.84
+258,231,13,2026-01-18,Hyderabad,Customer Cancelled,9.29,225.59
+259,33,17,2026-02-01,Mumbai,Customer Cancelled,31.77,528.91
+260,174,51,2026-03-04,Mumbai,Completed,26.68,450.28
+261,197,12,2026-02-21,Pune,Customer Cancelled,3.34,133.0
+262,117,63,2026-02-11,Pune,Customer Cancelled,22.54,360.7
+263,188,59,2026-03-23,Delhi,Completed,25.0,441.76
+264,69,42,2026-02-06,Delhi,Completed,14.32,275.58
+265,12,13,2026-03-22,Hyderabad,Completed,28.72,447.98
+266,52,17,2026-03-25,Delhi,Driver Cancelled,1.02,68.02
+267,168,47,2026-02-02,Bengaluru,Completed,29.91,484.19
+268,194,30,2026-02-24,Bengaluru,Completed,20.39,369.16
+269,114,2,2026-01-02,Delhi,Completed,19.4,361.54
+270,23,14,2026-01-14,Delhi,Completed,15.81,286.56
+271,174,19,2026-01-09,Pune,Completed,24.35,416.88
+272,39,53,2026-03-20,Hyderabad,Completed,23.4,419.9
+273,90,55,2026-02-10,Mumbai,Completed,4.82,126.11
+274,200,4,2026-03-26,Delhi,Completed,19.6,330.7
+275,230,31,2026-03-05,Hyderabad,Completed,10.16,193.44
+276,93,41,2026-01-17,Hyderabad,Completed,28.55,492.04
+277,198,10,2026-01-03,Pune,Completed,6.36,137.75
+278,74,65,2026-02-23,Hyderabad,Completed,30.41,509.34
+279,21,66,2026-01-27,Mumbai,Completed,5.73,154.72
+280,80,56,2026-01-31,Bengaluru,Completed,21.15,354.55
+281,190,23,2026-01-16,Bengaluru,Completed,19.87,362.11
+282,211,34,2026-01-22,Delhi,Completed,11.75,216.48
+283,86,55,2026-02-04,Pune,Customer Cancelled,4.66,113.75
+284,20,64,2026-02-28,Pune,Completed,23.08,387.93
+285,229,74,2026-03-28,Bengaluru,Completed,5.88,139.88
+286,94,50,2026-01-20,Mumbai,Completed,1.38,115.53
+287,58,42,2026-02-01,Hyderabad,Completed,23.13,419.19
+288,14,23,2026-01-29,Pune,Completed,4.7,164.78
+289,80,42,2026-01-12,Pune,Completed,27.85,460.02
+290,119,48,2026-03-17,Hyderabad,Completed,10.42,245.76
+291,2,53,2026-01-04,Mumbai,Completed,24.57,418.76
+292,169,49,2026-02-09,Bengaluru,Completed,30.48,483.01
+293,183,36,2026-01-12,Bengaluru,Driver Cancelled,2.86,135.71
+294,180,48,2026-02-28,Bengaluru,Completed,28.82,480.42
+295,112,17,2026-01-31,Delhi,Completed,3.32,105.83
+296,70,30,2026-01-10,Mumbai,Completed,23.8,385.69
+297,105,16,2026-03-10,Delhi,Completed,6.1,183.45
+298,207,39,2026-03-31,Pune,Completed,27.43,431.24
+299,102,66,2026-01-07,Delhi,Driver Cancelled,23.05,382.01
+300,104,58,2026-03-13,Pune,Completed,31.71,502.68
+301,57,17,2026-01-26,Hyderabad,Customer Cancelled,2.91,106.21
+302,150,76,2026-02-03,Bengaluru,Completed,20.54,333.76
+303,213,43,2026-01-16,Bengaluru,Customer Cancelled,4.99,166.69
+304,111,51,2026-03-05,Bengaluru,Driver Cancelled,2.57,102.03
+305,233,24,2026-02-05,Delhi,Completed,14.23,268.75
+306,106,71,2026-03-03,Bengaluru,Completed,8.62,170.5
+307,162,70,2026-01-03,Hyderabad,Completed,28.42,485.89
+308,83,50,2026-02-04,Mumbai,Completed,11.67,209.81
+309,121,68,2026-02-15,Pune,Completed,25.13,451.8
+310,203,8,2026-01-29,Pune,Completed,8.48,210.28
+311,61,76,2026-02-10,Delhi,Completed,31.74,539.63
+312,243,25,2026-03-05,Pune,Completed,18.6,322.4
+313,123,1,2026-02-12,Pune,Completed,19.65,331.18
+314,16,3,2026-01-19,Pune,Customer Cancelled,25.88,446.08
+315,135,47,2026-01-10,Delhi,Completed,5.39,159.21
+316,41,56,2026-03-23,Hyderabad,Completed,10.35,225.6
+317,58,76,2026-01-23,Hyderabad,Customer Cancelled,29.79,478.94
+318,187,1,2026-03-31,Pune,Completed,22.34,379.3
+319,248,79,2026-01-29,Pune,Driver Cancelled,19.67,326.11
+320,20,31,2026-02-14,Delhi,Completed,16.38,283.55
+321,86,58,2026-01-02,Delhi,Completed,21.77,361.31
+322,99,57,2026-02-23,Mumbai,Completed,4.35,154.55
+323,202,74,2026-03-25,Mumbai,Customer Cancelled,12.64,230.91
+324,76,3,2026-02-10,Delhi,Customer Cancelled,3.28,143.26
+325,97,21,2026-01-10,Pune,Completed,3.3,143.0
+326,8,56,2026-03-25,Mumbai,Completed,20.02,358.68
+327,179,71,2026-03-11,Delhi,Completed,7.37,184.51
+328,40,7,2026-02-16,Bengaluru,Customer Cancelled,18.72,330.6
+329,154,62,2026-01-26,Bengaluru,Completed,10.13,188.24
+330,201,51,2026-03-02,Hyderabad,Completed,15.68,313.74
+331,95,24,2026-02-27,Bengaluru,Customer Cancelled,6.73,153.7
+332,69,73,2026-01-08,Mumbai,Completed,15.42,302.25
+333,194,76,2026-01-30,Pune,Completed,26.05,413.05
+334,122,74,2026-01-31,Hyderabad,Customer Cancelled,17.6,307.84
+335,9,65,2026-03-15,Pune,Customer Cancelled,13.24,274.38
+336,31,58,2026-01-23,Mumbai,Completed,22.0,406.47
+337,52,19,2026-03-18,Delhi,Completed,3.43,110.61
+338,220,36,2026-03-08,Hyderabad,Completed,18.25,350.94
+339,107,20,2026-01-19,Pune,Completed,17.2,318.14
+340,74,69,2026-02-14,Hyderabad,Completed,18.44,317.69
+341,37,80,2026-03-19,Hyderabad,Completed,2.16,77.37
+342,69,48,2026-01-03,Delhi,Completed,2.53,125.38
+343,249,30,2026-01-18,Delhi,Completed,27.61,485.12
+344,49,57,2026-01-28,Hyderabad,Completed,13.92,280.63
+345,80,65,2026-02-21,Mumbai,Completed,16.97,325.51
+346,215,8,2026-02-01,Bengaluru,Customer Cancelled,6.98,167.82
+347,71,48,2026-03-01,Pune,Completed,29.46,479.27
+348,46,61,2026-03-17,Pune,Completed,12.55,239.94
+349,99,7,2026-01-21,Pune,Completed,22.35,400.79
+350,105,66,2026-01-03,Bengaluru,Completed,22.01,379.22
+351,207,40,2026-03-24,Delhi,Completed,1.26,85.95
+352,134,80,2026-02-20,Pune,Completed,7.76,159.27
+353,153,78,2026-02-06,Delhi,Completed,27.02,460.92
+354,67,39,2026-01-25,Mumbai,Customer Cancelled,20.86,365.49
+355,220,77,2026-02-21,Delhi,Completed,8.45,200.74
+356,104,50,2026-01-05,Pune,Customer Cancelled,10.16,226.18
+357,186,29,2026-03-29,Pune,Completed,18.73,342.33
+358,169,72,2026-01-24,Delhi,Completed,10.31,194.71
+359,243,43,2026-03-25,Bengaluru,Driver Cancelled,18.33,313.84
+360,108,43,2026-02-17,Delhi,Customer Cancelled,7.92,188.09
+361,14,75,2026-03-16,Pune,Completed,15.38,264.24
+362,106,7,2026-01-20,Mumbai,Completed,22.1,408.98
+363,221,24,2026-01-11,Hyderabad,Completed,31.59,505.55
+364,195,22,2026-03-15,Mumbai,Completed,1.15,88.03
+365,110,62,2026-02-19,Bengaluru,Completed,14.45,249.37
+366,136,25,2026-01-03,Bengaluru,Completed,28.65,480.57
+367,129,76,2026-02-09,Mumbai,Completed,10.67,197.97
+368,112,18,2026-02-13,Hyderabad,Completed,17.13,304.58
+369,55,3,2026-03-17,Pune,Driver Cancelled,7.95,165.59
+370,10,49,2026-03-23,Delhi,Completed,12.36,260.46
+371,6,7,2026-03-30,Bengaluru,Completed,21.52,369.2
+372,176,2,2026-02-08,Hyderabad,Completed,22.76,400.03
+373,231,14,2026-03-07,Pune,Completed,22.72,369.56
+374,213,67,2026-01-26,Delhi,Completed,19.88,362.01
+375,124,43,2026-01-31,Bengaluru,Completed,29.22,454.78
+376,24,66,2026-01-10,Bengaluru,Completed,21.74,399.12
+377,26,23,2026-01-06,Delhi,Completed,10.18,207.33
+378,12,2,2026-01-18,Mumbai,Completed,3.94,118.24
+379,88,24,2026-01-15,Hyderabad,Completed,23.73,399.23
+380,227,22,2026-01-15,Mumbai,Completed,15.83,304.91
+381,146,57,2026-01-24,Pune,Completed,29.25,475.39
+382,229,17,2026-03-03,Hyderabad,Completed,28.28,447.13
+383,223,68,2026-03-15,Pune,Completed,21.3,355.52
+384,111,32,2026-03-03,Delhi,Completed,22.34,394.26
+385,14,2,2026-03-24,Mumbai,Driver Cancelled,18.31,329.15
+386,43,10,2026-03-04,Delhi,Completed,15.55,275.95
+387,210,31,2026-01-11,Hyderabad,Completed,18.07,322.41
+388,128,3,2026-01-14,Hyderabad,Completed,14.86,275.72
+389,164,39,2026-03-07,Pune,Driver Cancelled,25.55,414.08
+390,94,7,2026-01-29,Hyderabad,Driver Cancelled,21.82,368.74
+391,184,47,2026-02-27,Bengaluru,Completed,24.79,397.42
+392,75,71,2026-03-08,Delhi,Driver Cancelled,26.73,457.84
+393,36,53,2026-01-14,Delhi,Completed,2.42,112.48
+394,87,14,2026-02-23,Bengaluru,Completed,26.56,467.8
+395,151,65,2026-01-18,Hyderabad,Completed,28.64,446.2
+396,131,23,2026-03-30,Pune,Completed,27.0,432.55
+397,130,50,2026-02-23,Pune,Customer Cancelled,19.62,370.06
+398,247,44,2026-02-07,Hyderabad,Completed,24.63,434.08
+399,180,71,2026-02-10,Pune,Completed,24.2,418.59
+400,34,23,2026-03-06,Pune,Driver Cancelled,22.28,395.11
+401,91,72,2026-03-03,Pune,Completed,10.99,230.25
+402,225,55,2026-01-02,Pune,Completed,28.71,452.8
+403,42,37,2026-03-29,Delhi,Completed,7.2,153.85
+404,116,14,2026-03-20,Pune,Completed,17.78,341.49
+405,179,37,2026-03-30,Bengaluru,Customer Cancelled,16.84,331.72
+406,250,41,2026-03-12,Bengaluru,Driver Cancelled,13.01,227.85
+407,200,57,2026-01-29,Delhi,Completed,8.79,209.59
+408,115,23,2026-03-29,Bengaluru,Completed,23.47,383.86
+409,68,17,2026-01-21,Pune,Completed,2.26,123.17
+410,83,77,2026-01-07,Pune,Completed,5.8,172.57
+411,135,29,2026-01-24,Pune,Completed,3.26,94.39
+412,227,28,2026-03-26,Delhi,Completed,13.51,252.35
+413,167,2,2026-01-15,Delhi,Customer Cancelled,31.9,516.11
+414,160,32,2026-01-06,Delhi,Completed,29.04,472.54
+415,234,67,2026-02-17,Pune,Completed,17.75,337.65
+416,22,13,2026-01-22,Pune,Completed,21.2,371.13
+417,109,14,2026-01-27,Pune,Customer Cancelled,24.98,440.3
+418,112,10,2026-03-29,Mumbai,Completed,28.24,441.67
+419,143,10,2026-03-15,Mumbai,Customer Cancelled,2.68,132.62
+420,104,56,2026-02-10,Bengaluru,Completed,13.64,257.38
+421,150,6,2026-03-31,Bengaluru,Completed,20.17,347.05
+422,196,57,2026-02-18,Hyderabad,Completed,10.34,234.98
+423,205,70,2026-02-07,Mumbai,Completed,5.23,134.61
+424,224,72,2026-01-19,Bengaluru,Completed,30.68,476.82
+425,192,45,2026-01-28,Hyderabad,Completed,30.36,519.85
+426,50,15,2026-01-24,Pune,Customer Cancelled,7.84,201.63
+427,141,60,2026-03-24,Pune,Driver Cancelled,27.39,432.48
+428,51,75,2026-03-04,Delhi,Completed,21.82,370.12
+429,82,63,2026-02-27,Delhi,Customer Cancelled,20.2,361.7
+430,145,73,2026-02-16,Delhi,Completed,10.48,244.45
+431,112,36,2026-02-16,Mumbai,Completed,7.87,192.56
+432,142,14,2026-01-23,Pune,Completed,12.12,219.19
+433,161,10,2026-01-10,Bengaluru,Completed,7.09,190.99
+434,10,71,2026-02-03,Pune,Completed,24.85,442.07
+435,198,76,2026-02-07,Mumbai,Completed,12.34,243.32
+436,247,79,2026-03-29,Mumbai,Completed,1.33,105.27
+437,248,19,2026-03-03,Delhi,Completed,30.41,472.96
+438,53,67,2026-02-16,Hyderabad,Completed,12.45,245.13
+439,248,67,2026-03-23,Delhi,Completed,21.1,386.32
+440,151,10,2026-03-08,Delhi,Completed,12.68,243.22
+441,203,62,2026-03-19,Bengaluru,Completed,26.33,441.22
+442,39,24,2026-01-21,Delhi,Completed,16.95,315.41
+443,124,62,2026-03-03,Mumbai,Completed,26.15,443.59
+444,42,18,2026-03-22,Pune,Completed,2.34,79.92
+445,104,77,2026-03-14,Bengaluru,Completed,29.6,507.72
+446,121,62,2026-01-22,Mumbai,Completed,7.71,198.61
+447,68,22,2026-03-29,Delhi,Completed,6.64,188.69
+448,52,67,2026-03-06,Hyderabad,Completed,12.95,271.76
+449,201,69,2026-03-06,Bengaluru,Completed,20.06,330.97
+450,174,56,2026-03-08,Hyderabad,Driver Cancelled,1.04,79.93
+451,59,62,2026-02-18,Delhi,Completed,2.35,110.3
+452,197,30,2026-01-11,Delhi,Completed,14.19,276.57
+453,148,67,2026-01-16,Pune,Customer Cancelled,22.98,367.12
+454,81,53,2026-02-16,Bengaluru,Completed,21.29,351.57
+455,157,36,2026-03-29,Hyderabad,Completed,17.62,333.2
+456,65,40,2026-03-15,Delhi,Completed,12.48,262.3
+457,115,21,2026-01-13,Mumbai,Completed,21.44,373.12
+458,100,1,2026-01-12,Mumbai,Completed,22.22,382.02
+459,10,50,2026-02-21,Pune,Completed,7.87,191.27
+460,127,57,2026-01-02,Mumbai,Completed,24.98,441.5
+461,133,30,2026-03-20,Mumbai,Completed,2.04,110.63
+462,200,52,2026-02-15,Hyderabad,Driver Cancelled,5.88,149.62
+463,181,9,2026-01-12,Pune,Completed,7.21,161.59
+464,156,25,2026-02-28,Hyderabad,Completed,30.86,508.66
+465,88,15,2026-03-07,Delhi,Completed,18.32,349.67
+466,124,32,2026-02-13,Hyderabad,Completed,14.73,288.71
+467,202,29,2026-03-28,Mumbai,Completed,8.99,214.87
+468,64,37,2026-01-12,Hyderabad,Customer Cancelled,1.3,100.25
+469,239,23,2026-03-02,Delhi,Completed,26.45,434.74
+470,49,64,2026-01-26,Mumbai,Driver Cancelled,24.13,423.27
+471,52,32,2026-03-21,Delhi,Completed,28.06,446.42
+472,196,70,2026-01-06,Hyderabad,Completed,21.57,367.4
+473,235,66,2026-02-05,Hyderabad,Driver Cancelled,16.21,284.16
+474,205,55,2026-03-03,Pune,Completed,18.88,311.11
+475,133,59,2026-02-10,Bengaluru,Completed,15.17,258.03
+476,48,71,2026-02-03,Mumbai,Customer Cancelled,12.21,230.76
+477,48,64,2026-02-24,Mumbai,Completed,30.71,497.99
+478,34,74,2026-03-29,Mumbai,Completed,9.67,225.16
+479,205,20,2026-03-02,Bengaluru,Completed,27.55,440.41
+480,77,33,2026-03-13,Pune,Customer Cancelled,23.34,374.38
+481,56,33,2026-03-02,Bengaluru,Completed,4.07,126.72
+482,89,3,2026-02-22,Bengaluru,Customer Cancelled,18.28,320.23
+483,148,74,2026-03-25,Pune,Completed,22.07,363.58
+484,115,11,2026-02-18,Pune,Completed,16.82,296.24
+485,108,79,2026-03-15,Hyderabad,Driver Cancelled,20.86,383.73
+486,59,41,2026-02-10,Delhi,Completed,3.21,129.01
+487,93,76,2026-03-08,Hyderabad,Customer Cancelled,14.79,274.83
+488,187,31,2026-03-26,Delhi,Completed,6.7,190.52
+489,240,61,2026-03-12,Bengaluru,Completed,13.31,232.79
+490,239,50,2026-02-09,Mumbai,Completed,20.16,340.85
+491,9,46,2026-02-11,Hyderabad,Completed,17.33,313.32
+492,139,23,2026-03-17,Pune,Driver Cancelled,5.19,142.77
+493,112,68,2026-03-23,Pune,Customer Cancelled,24.22,401.11
+494,207,12,2026-02-26,Delhi,Completed,11.76,229.76
+495,35,45,2026-02-06,Hyderabad,Completed,17.22,315.51
+496,111,38,2026-03-18,Mumbai,Completed,15.79,309.88
+497,42,50,2026-02-18,Mumbai,Completed,18.38,316.78
+498,178,35,2026-02-06,Pune,Completed,25.8,450.68
+499,159,58,2026-02-04,Pune,Completed,9.98,211.78
+500,27,37,2026-02-04,Mumbai,Completed,17.58,330.46
+501,108,40,2026-03-05,Delhi,Completed,1.46,90.94
+502,69,51,2026-01-10,Pune,Completed,24.27,410.64
+503,197,32,2026-02-19,Hyderabad,Completed,26.68,432.11
+504,54,61,2026-02-19,Delhi,Completed,24.9,445.09
+505,65,62,2026-03-23,Delhi,Completed,30.06,476.77
+506,84,2,2026-01-22,Delhi,Completed,4.5,140.16
+507,122,77,2026-01-20,Delhi,Customer Cancelled,2.3,119.59
+508,176,80,2026-02-13,Bengaluru,Completed,8.71,170.23
+509,82,72,2026-03-24,Delhi,Completed,4.33,149.92
+510,65,6,2026-03-04,Hyderabad,Completed,12.71,253.69
+511,188,60,2026-02-05,Pune,Completed,6.79,190.36
+512,139,47,2026-02-28,Bengaluru,Customer Cancelled,14.93,296.7
+513,227,3,2026-03-21,Delhi,Completed,16.68,321.2
+514,49,68,2026-03-29,Hyderabad,Customer Cancelled,30.98,520.84
+515,105,42,2026-01-15,Bengaluru,Completed,5.78,154.7
+516,50,13,2026-01-05,Pune,Completed,1.97,107.88
+517,94,29,2026-03-19,Bengaluru,Completed,22.74,364.08
+518,206,8,2026-02-16,Pune,Completed,28.58,486.01
+519,136,6,2026-01-10,Delhi,Completed,2.81,88.63
+520,49,25,2026-03-09,Mumbai,Completed,23.48,405.07
+521,164,74,2026-02-15,Hyderabad,Completed,13.87,277.82
+522,87,21,2026-03-10,Pune,Completed,6.59,161.63
+523,106,56,2026-02-11,Pune,Customer Cancelled,31.9,504.84
+524,141,33,2026-02-16,Hyderabad,Completed,17.91,320.35
+525,35,39,2026-01-01,Delhi,Completed,9.82,236.62
+526,71,71,2026-03-07,Pune,Completed,26.48,447.11
+527,94,75,2026-02-01,Mumbai,Completed,12.03,227.51
+528,186,42,2026-03-03,Mumbai,Completed,29.45,484.16
+529,77,5,2026-03-15,Hyderabad,Completed,29.14,457.28
+530,223,16,2026-01-30,Pune,Completed,26.33,464.7
+531,139,73,2026-01-20,Delhi,Completed,10.45,218.93
+532,193,77,2026-03-15,Pune,Driver Cancelled,31.92,496.83
+533,38,17,2026-02-13,Bengaluru,Customer Cancelled,14.39,272.63
+534,68,11,2026-02-21,Pune,Completed,24.1,406.3
+535,147,26,2026-03-13,Pune,Completed,7.14,199.8
+536,237,74,2026-01-12,Bengaluru,Completed,25.08,433.07
+537,198,40,2026-01-22,Delhi,Completed,11.68,242.41
+538,60,26,2026-03-29,Delhi,Driver Cancelled,14.65,258.68
+539,190,7,2026-02-01,Pune,Completed,23.58,426.09
+540,116,61,2026-01-03,Delhi,Completed,22.51,371.64
+541,160,19,2026-03-30,Bengaluru,Completed,24.26,405.35
+542,203,80,2026-02-04,Bengaluru,Completed,6.28,158.49
+543,169,47,2026-01-14,Bengaluru,Customer Cancelled,9.41,192.83
+544,98,66,2026-01-13,Delhi,Completed,28.39,469.12
+545,238,3,2026-01-06,Mumbai,Completed,16.52,327.0
+546,91,46,2026-03-22,Delhi,Completed,5.87,140.17
+547,100,4,2026-03-13,Delhi,Completed,2.92,98.29
+548,246,79,2026-03-22,Mumbai,Completed,3.72,120.03
+549,139,17,2026-01-27,Mumbai,Completed,29.2,485.76
+550,135,18,2026-02-25,Mumbai,Completed,10.58,229.21
+551,31,24,2026-02-10,Mumbai,Driver Cancelled,18.28,340.91
+552,106,53,2026-02-08,Hyderabad,Customer Cancelled,24.73,432.23
+553,190,36,2026-01-20,Mumbai,Completed,26.47,421.45
+554,153,30,2026-01-30,Bengaluru,Completed,19.77,341.54
+555,167,48,2026-01-24,Hyderabad,Completed,27.23,453.25
+556,237,35,2026-02-22,Mumbai,Driver Cancelled,13.67,277.21
+557,17,23,2026-02-26,Pune,Completed,31.64,514.91
+558,156,49,2026-02-10,Hyderabad,Completed,14.25,278.13
+559,10,67,2026-01-14,Hyderabad,Completed,20.88,362.45
+560,143,50,2026-03-08,Bengaluru,Completed,13.26,241.08
+561,76,79,2026-01-07,Pune,Completed,9.86,232.74
+562,200,75,2026-03-31,Pune,Completed,23.4,380.04
+563,230,26,2026-02-28,Bengaluru,Customer Cancelled,15.06,269.59
+564,204,21,2026-01-16,Bengaluru,Customer Cancelled,22.44,365.44
+565,135,50,2026-03-07,Pune,Completed,14.93,306.26
+566,224,20,2026-01-21,Mumbai,Completed,6.3,143.04
+567,74,24,2026-01-16,Mumbai,Driver Cancelled,23.64,428.78
+568,4,59,2026-03-05,Hyderabad,Completed,1.11,90.43
+569,105,57,2026-01-11,Pune,Completed,19.25,347.51
+570,54,7,2026-01-24,Mumbai,Customer Cancelled,20.49,334.89
+571,9,74,2026-03-19,Delhi,Completed,11.82,228.69
+572,157,77,2026-03-15,Pune,Completed,6.53,146.18
+573,83,48,2026-02-18,Bengaluru,Completed,2.11,116.25
+574,71,43,2026-03-09,Hyderabad,Completed,5.17,146.24
+575,136,12,2026-03-03,Pune,Driver Cancelled,18.71,358.3
+576,156,41,2026-02-03,Pune,Completed,31.57,518.61
+577,128,64,2026-01-24,Pune,Completed,16.39,287.26
+578,31,27,2026-03-20,Hyderabad,Completed,1.74,92.13
+579,177,37,2026-02-02,Bengaluru,Completed,7.58,168.05
+580,102,73,2026-03-20,Bengaluru,Completed,4.53,154.18
+581,10,18,2026-03-03,Mumbai,Completed,15.85,301.4
+582,238,8,2026-03-08,Delhi,Customer Cancelled,15.34,290.83
+583,5,27,2026-03-15,Delhi,Completed,22.02,397.25
+584,87,49,2026-03-22,Pune,Customer Cancelled,5.63,170.15
+585,153,15,2026-02-09,Delhi,Completed,18.7,345.84
+586,244,39,2026-01-28,Pune,Completed,8.37,178.81
+587,7,62,2026-03-06,Mumbai,Completed,29.31,465.8
+588,197,13,2026-03-08,Mumbai,Completed,10.62,204.97
+589,239,6,2026-03-29,Pune,Completed,17.19,333.61
+590,6,74,2026-02-09,Mumbai,Completed,24.75,409.15
+591,70,20,2026-01-21,Delhi,Completed,24.96,400.74
+592,82,35,2026-01-19,Delhi,Completed,7.4,180.17
+593,34,4,2026-03-02,Bengaluru,Completed,11.5,211.83
+594,162,58,2026-03-20,Delhi,Customer Cancelled,22.85,382.08
+595,172,69,2026-01-11,Hyderabad,Completed,26.34,444.99
+596,182,60,2026-03-02,Mumbai,Completed,15.12,308.79
+597,235,43,2026-02-11,Hyderabad,Completed,12.27,243.59
+598,197,45,2026-03-19,Pune,Completed,15.3,266.21
+599,203,39,2026-03-10,Hyderabad,Completed,11.1,222.44
+600,17,44,2026-01-27,Pune,Completed,5.93,151.73
+601,170,10,2026-03-15,Hyderabad,Completed,17.88,301.61
+602,245,52,2026-01-09,Pune,Completed,26.48,421.7
+603,56,18,2026-03-16,Bengaluru,Completed,20.99,380.5
+604,51,27,2026-03-29,Delhi,Completed,13.09,244.75
+605,235,45,2026-01-12,Pune,Completed,30.24,468.81
+606,231,71,2026-01-07,Bengaluru,Completed,27.43,467.7
+607,111,76,2026-02-20,Delhi,Completed,9.75,220.65
+608,49,72,2026-02-19,Delhi,Completed,21.54,392.76
+609,37,63,2026-03-26,Hyderabad,Completed,1.36,117.66
+610,202,78,2026-02-24,Pune,Completed,13.89,249.35
+611,109,78,2026-01-01,Pune,Completed,12.93,253.42
+612,94,5,2026-01-05,Pune,Completed,13.74,263.94
+613,188,68,2026-02-05,Hyderabad,Completed,22.41,387.17
+614,246,10,2026-03-29,Pune,Completed,15.65,308.0
+615,117,66,2026-03-02,Pune,Completed,17.59,331.62
+616,192,39,2026-03-14,Delhi,Driver Cancelled,2.1,77.78
+617,14,38,2026-03-21,Bengaluru,Completed,15.67,280.15
+618,158,36,2026-02-05,Delhi,Completed,25.3,399.98
+619,95,23,2026-02-03,Mumbai,Completed,23.91,406.41
+620,240,20,2026-03-05,Hyderabad,Completed,3.62,138.05
+621,216,45,2026-01-07,Delhi,Completed,6.19,173.21
+622,243,69,2026-01-30,Hyderabad,Completed,15.76,303.23
+623,238,58,2026-02-18,Delhi,Completed,27.98,489.62
+624,217,56,2026-03-20,Delhi,Completed,17.47,308.0
+625,173,31,2026-03-28,Pune,Completed,19.11,354.92
+626,173,2,2026-01-09,Bengaluru,Completed,6.58,159.74
+627,50,5,2026-01-04,Pune,Completed,7.8,159.26
+628,32,16,2026-01-12,Pune,Completed,7.72,160.22
+629,179,24,2026-02-02,Delhi,Customer Cancelled,30.98,504.4
+630,237,36,2026-02-24,Delhi,Completed,30.02,479.43
+631,16,34,2026-02-03,Mumbai,Completed,12.87,249.41
+632,37,70,2026-02-25,Mumbai,Completed,6.53,170.19
+633,147,33,2026-02-27,Bengaluru,Completed,4.2,153.11
+634,39,43,2026-02-20,Pune,Completed,2.17,75.58
+635,208,9,2026-03-11,Mumbai,Completed,13.52,234.46
+636,86,39,2026-02-21,Bengaluru,Driver Cancelled,17.59,326.03
+637,137,44,2026-01-11,Hyderabad,Completed,30.72,516.9
+638,49,39,2026-03-31,Hyderabad,Completed,2.22,125.39
+639,49,18,2026-01-05,Mumbai,Completed,28.44,444.56
+640,79,64,2026-03-10,Hyderabad,Completed,2.95,139.46
+641,31,28,2026-03-25,Pune,Completed,25.42,426.09
+642,10,19,2026-03-04,Bengaluru,Driver Cancelled,18.96,336.36
+643,180,17,2026-01-02,Mumbai,Completed,29.46,492.24
+644,210,14,2026-01-15,Hyderabad,Completed,6.29,165.78
+645,189,52,2026-02-11,Bengaluru,Customer Cancelled,14.21,297.61
+646,215,28,2026-01-06,Pune,Completed,18.85,318.44
+647,142,22,2026-02-26,Mumbai,Completed,13.87,290.09
+648,41,3,2026-03-04,Bengaluru,Completed,20.6,333.75
+649,178,61,2026-03-30,Mumbai,Completed,19.41,328.08
+650,178,5,2026-03-18,Mumbai,Completed,8.42,202.33
+651,2,72,2026-01-31,Mumbai,Completed,25.26,405.1
+652,130,29,2026-03-01,Mumbai,Driver Cancelled,27.74,448.56
+653,176,61,2026-03-05,Mumbai,Customer Cancelled,7.01,151.93
+654,94,37,2026-01-27,Hyderabad,Completed,29.6,473.23
+655,46,21,2026-01-04,Hyderabad,Driver Cancelled,23.95,408.62
+656,114,76,2026-03-16,Delhi,Completed,3.2,112.85
+657,61,53,2026-01-26,Hyderabad,Completed,4.41,155.77
+658,238,79,2026-02-28,Mumbai,Completed,28.61,466.84
+659,86,17,2026-01-05,Pune,Completed,12.12,217.96
+660,227,38,2026-03-19,Mumbai,Completed,6.31,176.77
+661,59,12,2026-02-22,Pune,Completed,18.92,336.79
+662,110,32,2026-02-01,Delhi,Completed,15.35,283.78
+663,107,6,2026-01-06,Hyderabad,Customer Cancelled,29.33,495.96
+664,101,62,2026-03-31,Bengaluru,Completed,16.63,302.7
+665,56,17,2026-02-15,Delhi,Completed,22.49,373.01
+666,220,74,2026-03-16,Bengaluru,Completed,10.45,245.0
+667,95,60,2026-03-23,Bengaluru,Customer Cancelled,13.57,282.3
+668,86,68,2026-01-05,Delhi,Customer Cancelled,3.19,113.08
+669,139,74,2026-01-27,Bengaluru,Driver Cancelled,9.36,210.17
+670,132,47,2026-01-07,Bengaluru,Driver Cancelled,11.41,225.8
+671,94,23,2026-03-24,Pune,Completed,15.43,299.79
+672,167,62,2026-03-16,Mumbai,Completed,11.38,245.74
+673,71,7,2026-01-09,Delhi,Completed,9.29,194.05
+674,212,69,2026-02-07,Hyderabad,Completed,15.58,297.27
+675,229,59,2026-01-12,Bengaluru,Completed,30.17,488.87
+676,128,20,2026-01-27,Pune,Completed,9.55,231.07
+677,89,54,2026-02-26,Bengaluru,Completed,17.78,309.95
+678,149,44,2026-03-25,Delhi,Completed,17.11,311.28
+679,34,40,2026-01-22,Delhi,Completed,14.8,264.67
+680,117,22,2026-03-21,Mumbai,Completed,2.47,118.73
+681,40,21,2026-01-31,Bengaluru,Completed,22.48,361.98
+682,182,5,2026-03-27,Delhi,Completed,12.46,273.23
+683,236,4,2026-02-21,Hyderabad,Completed,6.04,171.83
+684,130,43,2026-03-24,Delhi,Completed,31.07,506.05
+685,237,57,2026-02-13,Bengaluru,Completed,25.79,446.3
+686,159,29,2026-02-27,Delhi,Completed,4.62,114.77
+687,197,36,2026-01-26,Bengaluru,Customer Cancelled,17.32,292.08
+688,246,12,2026-03-07,Hyderabad,Completed,27.33,438.31
+689,102,19,2026-02-24,Delhi,Completed,2.74,104.6
+690,23,28,2026-02-26,Hyderabad,Customer Cancelled,31.3,527.4
+691,249,55,2026-02-23,Mumbai,Customer Cancelled,9.95,230.25
+692,78,61,2026-03-09,Delhi,Completed,19.54,322.2
+693,107,23,2026-03-13,Hyderabad,Driver Cancelled,13.69,275.72
+694,48,49,2026-02-07,Pune,Completed,24.41,413.72
+695,119,29,2026-01-04,Bengaluru,Completed,10.42,199.35
+696,229,37,2026-02-23,Mumbai,Completed,15.65,291.15
+697,249,9,2026-03-18,Delhi,Completed,24.71,422.9
+698,31,48,2026-03-07,Pune,Completed,15.76,266.6
+699,35,46,2026-01-21,Bengaluru,Customer Cancelled,10.91,212.74
+700,92,7,2026-02-07,Delhi,Driver Cancelled,14.0,270.13
+701,197,24,2026-01-13,Pune,Completed,30.03,506.81
+702,176,47,2026-01-13,Pune,Completed,22.23,388.12
+703,106,44,2026-01-21,Bengaluru,Completed,9.72,193.06
+704,244,68,2026-03-10,Pune,Completed,18.32,340.1
+705,237,3,2026-03-03,Delhi,Customer Cancelled,3.37,109.32
+706,228,77,2026-03-08,Delhi,Customer Cancelled,12.24,225.83
+707,31,29,2026-01-17,Mumbai,Completed,10.45,229.14
+708,201,15,2026-01-10,Bengaluru,Completed,3.44,135.77
+709,152,8,2026-03-02,Bengaluru,Completed,2.02,123.25
+710,236,78,2026-01-27,Pune,Customer Cancelled,24.39,436.02
+711,24,19,2026-02-05,Pune,Completed,6.73,158.35
+712,18,13,2026-03-16,Bengaluru,Completed,20.0,354.09
+713,186,13,2026-01-28,Pune,Completed,24.37,433.0
+714,47,46,2026-02-18,Hyderabad,Driver Cancelled,14.63,261.61
+715,81,16,2026-03-01,Bengaluru,Completed,8.05,186.29
+716,84,64,2026-01-15,Hyderabad,Completed,18.27,316.38
+717,105,38,2026-02-24,Mumbai,Completed,27.07,471.1
+718,173,63,2026-03-28,Bengaluru,Completed,12.39,240.26
+719,152,14,2026-01-22,Bengaluru,Completed,5.44,141.16
+720,215,55,2026-03-05,Delhi,Completed,31.71,531.0
+721,103,46,2026-03-02,Pune,Completed,25.47,453.84
+722,65,63,2026-03-05,Mumbai,Completed,24.81,426.9
+723,7,23,2026-02-18,Pune,Completed,26.74,456.72
+724,134,64,2026-03-01,Mumbai,Completed,24.57,405.13
+725,140,3,2026-01-05,Hyderabad,Customer Cancelled,11.65,256.51
+726,219,49,2026-02-26,Hyderabad,Completed,4.69,112.64
+727,126,56,2026-01-18,Delhi,Completed,10.39,229.82
+728,139,74,2026-03-02,Hyderabad,Completed,16.21,302.86
+729,158,46,2026-02-06,Delhi,Driver Cancelled,16.34,277.14
+730,94,45,2026-03-16,Bengaluru,Completed,19.3,357.29
+731,90,8,2026-03-26,Mumbai,Completed,11.7,222.42
+732,30,44,2026-01-22,Bengaluru,Customer Cancelled,22.33,387.23
+733,109,73,2026-03-07,Hyderabad,Completed,2.16,89.9
+734,83,74,2026-01-13,Hyderabad,Completed,10.81,201.84
+735,43,79,2026-02-08,Delhi,Completed,26.16,464.56
+736,138,28,2026-02-06,Delhi,Customer Cancelled,25.4,403.21
+737,58,80,2026-01-12,Pune,Completed,31.88,496.53
+738,89,10,2026-03-25,Delhi,Completed,17.46,317.2
+739,160,66,2026-02-28,Pune,Completed,7.2,155.73
+740,170,60,2026-02-04,Pune,Completed,6.78,184.41
+741,52,47,2026-03-01,Mumbai,Completed,23.53,387.64
+742,234,9,2026-03-23,Mumbai,Customer Cancelled,13.72,283.61
+743,42,33,2026-03-29,Pune,Completed,9.27,187.77
+744,119,63,2026-03-13,Hyderabad,Customer Cancelled,8.61,188.75
+745,70,18,2026-01-04,Delhi,Completed,29.08,495.55
+746,125,3,2026-01-08,Bengaluru,Driver Cancelled,27.43,446.28
+747,245,53,2026-02-16,Bengaluru,Completed,10.24,210.19
+748,31,67,2026-03-27,Pune,Completed,18.7,359.03
+749,198,41,2026-02-12,Pune,Completed,3.8,138.75
+750,45,28,2026-02-05,Hyderabad,Completed,14.11,265.0
+751,82,70,2026-02-24,Hyderabad,Driver Cancelled,12.62,259.23
+752,240,19,2026-02-16,Hyderabad,Customer Cancelled,30.86,516.4
+753,248,78,2026-01-05,Bengaluru,Completed,26.46,453.43
+754,180,47,2026-03-29,Bengaluru,Completed,12.93,255.44
+755,235,33,2026-02-08,Bengaluru,Completed,29.2,505.3
+756,162,41,2026-03-24,Hyderabad,Driver Cancelled,28.6,488.81
+757,200,63,2026-03-02,Hyderabad,Completed,9.5,228.96
+758,179,34,2026-03-06,Bengaluru,Customer Cancelled,26.43,434.37
+759,189,42,2026-02-28,Bengaluru,Customer Cancelled,19.67,362.29
+760,114,18,2026-01-01,Hyderabad,Completed,20.88,348.32
+761,249,17,2026-03-18,Hyderabad,Completed,5.89,171.06
+762,152,42,2026-02-06,Mumbai,Completed,5.14,121.6
+763,58,3,2026-01-03,Pune,Customer Cancelled,30.29,504.65
+764,250,60,2026-01-26,Delhi,Customer Cancelled,20.43,369.59
+765,110,77,2026-02-03,Mumbai,Completed,6.23,137.12
+766,236,59,2026-03-28,Hyderabad,Completed,23.28,377.44
+767,192,64,2026-02-18,Mumbai,Completed,26.22,435.8
+768,108,24,2026-02-22,Mumbai,Completed,9.77,183.36
+769,176,59,2026-01-11,Bengaluru,Completed,29.13,478.61
+770,109,77,2026-02-02,Bengaluru,Completed,7.58,156.36
+771,156,77,2026-01-06,Bengaluru,Completed,15.6,277.35
+772,229,72,2026-01-06,Pune,Completed,21.81,360.21
+773,82,68,2026-02-25,Mumbai,Completed,28.21,454.26
+774,93,56,2026-02-06,Delhi,Completed,31.17,515.09
+775,189,63,2026-01-20,Pune,Completed,14.51,295.06
+776,10,61,2026-02-03,Mumbai,Completed,5.61,162.37
+777,125,59,2026-03-05,Bengaluru,Completed,12.05,260.22
+778,214,22,2026-03-07,Delhi,Completed,7.32,178.46
+779,147,24,2026-02-23,Bengaluru,Completed,31.12,494.22
+780,175,16,2026-02-20,Delhi,Completed,1.8,102.67
+781,169,62,2026-02-28,Delhi,Customer Cancelled,3.51,126.82
+782,168,80,2026-02-27,Delhi,Driver Cancelled,1.18,113.63
+783,205,73,2026-01-17,Mumbai,Customer Cancelled,31.99,540.34
+784,205,8,2026-01-10,Pune,Completed,25.85,459.25
+785,103,12,2026-01-03,Mumbai,Completed,8.44,172.12
+786,77,63,2026-02-25,Delhi,Completed,30.59,522.97
+787,126,58,2026-02-19,Hyderabad,Completed,26.79,434.83
+788,112,55,2026-01-12,Bengaluru,Completed,26.14,439.19
+789,127,68,2026-03-22,Pune,Completed,22.27,361.4
+790,33,39,2026-02-01,Pune,Completed,15.81,289.87
+791,109,53,2026-01-13,Hyderabad,Completed,2.4,114.95
+792,5,15,2026-03-26,Hyderabad,Completed,19.15,322.98
+793,81,76,2026-02-28,Hyderabad,Completed,13.9,273.91
+794,67,14,2026-02-25,Pune,Driver Cancelled,3.42,93.87
+795,168,62,2026-02-28,Hyderabad,Completed,13.24,278.14
+796,158,47,2026-03-30,Hyderabad,Customer Cancelled,10.39,234.72
+797,49,15,2026-01-03,Mumbai,Completed,3.72,144.33
+798,220,69,2026-01-25,Bengaluru,Customer Cancelled,8.5,180.55
+799,6,15,2026-01-22,Mumbai,Completed,15.37,300.81
+800,52,38,2026-03-14,Hyderabad,Completed,27.65,434.9
+801,127,75,2026-03-18,Pune,Completed,14.39,301.41
+802,174,63,2026-01-30,Bengaluru,Completed,19.32,344.54
+803,228,61,2026-01-15,Hyderabad,Completed,9.3,209.45
+804,50,61,2026-02-14,Hyderabad,Completed,1.65,80.87
+805,169,60,2026-01-17,Delhi,Customer Cancelled,19.67,360.14
+806,241,47,2026-03-02,Mumbai,Completed,13.1,262.6
+807,41,78,2026-03-04,Bengaluru,Completed,15.97,312.22
+808,5,46,2026-02-03,Delhi,Completed,7.49,187.09
+809,159,30,2026-01-16,Pune,Completed,2.97,98.91
+810,143,35,2026-01-20,Pune,Completed,24.85,426.14
+811,216,15,2026-01-14,Pune,Completed,14.57,282.51
+812,162,16,2026-01-27,Delhi,Completed,2.3,85.84
+813,40,47,2026-02-12,Mumbai,Customer Cancelled,16.45,282.06
+814,197,1,2026-02-01,Hyderabad,Driver Cancelled,7.26,165.41
+815,96,54,2026-02-16,Mumbai,Completed,16.66,286.58
+816,236,53,2026-02-28,Pune,Completed,5.28,162.62
+817,133,9,2026-01-11,Delhi,Completed,24.87,410.49
+818,237,20,2026-03-15,Bengaluru,Completed,13.19,283.44
+819,227,71,2026-02-08,Delhi,Completed,31.15,531.11
+820,104,58,2026-03-24,Mumbai,Completed,19.92,372.7
+821,201,52,2026-01-26,Delhi,Customer Cancelled,22.62,366.32
+822,185,17,2026-03-08,Pune,Completed,17.66,307.86
+823,6,4,2026-03-11,Pune,Completed,11.56,221.07
+824,16,48,2026-02-03,Pune,Completed,31.6,506.9
+825,2,59,2026-02-13,Mumbai,Completed,14.91,298.04
+826,217,77,2026-01-30,Delhi,Completed,30.06,482.3
+827,189,32,2026-01-14,Delhi,Completed,5.34,148.16
+828,106,11,2026-01-12,Bengaluru,Completed,5.54,145.93
+829,151,72,2026-03-08,Hyderabad,Completed,12.45,267.26
+830,126,54,2026-01-21,Mumbai,Driver Cancelled,14.64,277.78
+831,248,66,2026-03-09,Bengaluru,Completed,16.03,307.62
+832,244,16,2026-03-19,Hyderabad,Completed,30.27,474.85
+833,96,39,2026-02-07,Hyderabad,Completed,5.75,127.04
+834,73,28,2026-01-24,Hyderabad,Completed,30.04,465.67
+835,145,58,2026-02-13,Hyderabad,Completed,13.94,266.3
+836,195,58,2026-03-27,Hyderabad,Completed,5.29,127.25
+837,60,51,2026-02-13,Pune,Completed,21.6,349.92
+838,182,4,2026-03-15,Delhi,Customer Cancelled,21.02,370.14
+839,50,80,2026-03-11,Pune,Completed,4.84,154.43
+840,31,69,2026-01-24,Bengaluru,Customer Cancelled,15.75,280.62
+841,215,75,2026-02-26,Bengaluru,Customer Cancelled,7.38,192.7
+842,12,63,2026-01-03,Delhi,Completed,19.81,346.38
+843,26,70,2026-01-22,Delhi,Completed,8.97,178.5
+844,16,79,2026-02-11,Mumbai,Completed,30.52,473.77
+845,67,49,2026-01-16,Bengaluru,Customer Cancelled,5.42,132.02
+846,127,66,2026-03-06,Hyderabad,Completed,24.32,437.69
+847,105,30,2026-01-03,Delhi,Completed,13.62,266.15
+848,78,73,2026-02-22,Hyderabad,Customer Cancelled,18.2,304.41
+849,248,19,2026-02-17,Pune,Completed,20.71,389.13
+850,11,1,2026-03-01,Pune,Completed,30.8,492.11
+851,65,49,2026-02-14,Mumbai,Completed,29.58,491.3
+852,23,51,2026-03-31,Bengaluru,Completed,17.56,336.52
+853,206,41,2026-03-29,Delhi,Completed,7.54,185.49
+854,88,27,2026-02-28,Pune,Driver Cancelled,8.62,183.75
+855,237,1,2026-03-19,Hyderabad,Completed,29.33,455.86
+856,196,51,2026-03-10,Bengaluru,Completed,28.75,490.8
+857,114,16,2026-02-15,Hyderabad,Customer Cancelled,28.67,491.89
+858,197,2,2026-01-16,Hyderabad,Completed,12.1,234.78
+859,236,46,2026-01-25,Bengaluru,Completed,1.61,112.44
+860,10,36,2026-03-05,Pune,Driver Cancelled,31.38,495.82
+861,102,15,2026-02-05,Pune,Customer Cancelled,7.08,171.64
+862,190,73,2026-03-28,Pune,Completed,6.28,164.0
+863,220,30,2026-03-08,Delhi,Driver Cancelled,4.95,124.85
+864,178,69,2026-03-20,Delhi,Driver Cancelled,22.02,390.72
+865,110,7,2026-02-11,Hyderabad,Completed,28.38,488.76
+866,195,6,2026-01-29,Bengaluru,Completed,15.46,276.73
+867,226,74,2026-01-04,Mumbai,Completed,13.15,282.9
+868,17,13,2026-01-04,Hyderabad,Completed,7.1,168.16
+869,122,31,2026-02-13,Bengaluru,Completed,27.06,469.03
+870,196,13,2026-03-22,Hyderabad,Completed,25.05,427.54
+871,178,9,2026-01-17,Bengaluru,Customer Cancelled,12.7,273.35
+872,161,56,2026-01-09,Bengaluru,Completed,14.7,288.07
+873,106,30,2026-03-18,Pune,Completed,13.45,233.88
+874,241,4,2026-02-28,Pune,Completed,20.2,345.85
+875,216,25,2026-03-15,Mumbai,Completed,23.11,403.6
+876,36,6,2026-01-08,Mumbai,Completed,20.25,345.64
+877,199,19,2026-01-19,Hyderabad,Customer Cancelled,10.65,211.08
+878,3,67,2026-03-17,Mumbai,Completed,11.63,210.97
+879,52,26,2026-01-09,Delhi,Completed,14.08,252.53
+880,149,73,2026-02-12,Pune,Completed,19.59,335.74
+881,57,1,2026-03-23,Mumbai,Completed,25.46,439.57
+882,85,49,2026-01-27,Hyderabad,Driver Cancelled,23.77,387.91
+883,19,46,2026-01-04,Pune,Completed,31.69,495.0
+884,250,4,2026-01-26,Mumbai,Completed,29.29,470.69
+885,46,26,2026-01-03,Mumbai,Completed,11.53,252.78
+886,227,15,2026-02-13,Mumbai,Completed,5.25,135.28
+887,160,56,2026-01-09,Bengaluru,Driver Cancelled,30.18,475.46
+888,50,69,2026-02-18,Delhi,Customer Cancelled,29.65,477.59
+889,236,6,2026-03-20,Pune,Completed,14.32,255.88
+890,224,17,2026-03-07,Pune,Customer Cancelled,2.65,130.82
+891,121,79,2026-01-09,Mumbai,Completed,7.49,177.83
+892,46,42,2026-02-17,Pune,Completed,12.6,259.6
+893,203,75,2026-03-25,Bengaluru,Completed,19.02,322.68
+894,228,49,2026-03-15,Mumbai,Completed,13.27,282.23
+895,133,46,2026-01-30,Pune,Completed,24.3,387.46
+896,206,64,2026-02-10,Delhi,Completed,15.49,282.89
+897,76,65,2026-03-07,Pune,Customer Cancelled,3.35,127.3
+898,26,16,2026-01-10,Delhi,Driver Cancelled,25.36,402.15
+899,85,33,2026-02-08,Delhi,Completed,7.21,156.43
+900,234,34,2026-01-02,Delhi,Completed,24.32,400.98
+901,4,61,2026-03-25,Pune,Completed,26.48,470.13
+902,60,67,2026-03-17,Pune,Completed,23.42,414.55
+903,110,54,2026-01-27,Hyderabad,Customer Cancelled,3.66,120.99
+904,148,17,2026-02-09,Bengaluru,Completed,18.31,328.83
+905,104,69,2026-02-08,Delhi,Completed,13.99,273.14
+906,85,73,2026-03-22,Pune,Driver Cancelled,5.76,175.9
+907,98,27,2026-02-20,Bengaluru,Completed,18.79,337.46
+908,78,12,2026-01-22,Bengaluru,Completed,30.82,513.6
+909,234,50,2026-02-06,Mumbai,Completed,1.83,83.44
+910,84,53,2026-02-20,Mumbai,Completed,12.43,273.45
+911,222,27,2026-01-17,Mumbai,Driver Cancelled,3.13,105.86
+912,41,78,2026-03-15,Delhi,Completed,26.35,446.21
+913,115,9,2026-02-21,Pune,Driver Cancelled,7.25,190.92
+914,226,63,2026-02-28,Hyderabad,Driver Cancelled,17.3,318.89
+915,226,59,2026-02-14,Delhi,Completed,23.86,400.55
+916,111,59,2026-02-19,Mumbai,Completed,6.57,175.4
+917,71,69,2026-02-07,Bengaluru,Customer Cancelled,8.43,201.41
+918,127,53,2026-03-12,Bengaluru,Completed,23.39,427.2
+919,43,33,2026-01-27,Pune,Completed,25.16,399.69
+920,191,52,2026-01-25,Hyderabad,Completed,24.24,386.44
+921,125,60,2026-01-09,Bengaluru,Completed,11.14,231.12
+922,44,3,2026-03-19,Bengaluru,Customer Cancelled,26.43,424.77
+923,44,10,2026-03-27,Bengaluru,Completed,4.85,150.16
+924,137,28,2026-02-26,Bengaluru,Customer Cancelled,23.15,415.11
+925,184,14,2026-02-19,Delhi,Completed,26.16,435.66
+926,96,31,2026-01-26,Bengaluru,Driver Cancelled,24.78,392.8
+927,211,25,2026-03-29,Bengaluru,Completed,1.87,83.31
+928,28,42,2026-02-11,Pune,Completed,6.18,165.99
+929,28,46,2026-02-11,Mumbai,Completed,14.26,245.46
+930,209,36,2026-03-25,Pune,Completed,15.22,278.37
+931,27,69,2026-03-14,Mumbai,Completed,24.79,405.92
+932,249,18,2026-02-12,Mumbai,Completed,22.59,396.2
+933,5,78,2026-03-16,Hyderabad,Completed,21.66,369.27
+934,6,79,2026-01-16,Delhi,Completed,22.84,377.76
+935,76,26,2026-01-20,Hyderabad,Completed,2.86,96.28
+936,85,18,2026-02-05,Delhi,Completed,30.32,504.88
+937,193,4,2026-01-30,Delhi,Customer Cancelled,13.86,257.89
+938,235,32,2026-03-29,Mumbai,Completed,7.38,181.76
+939,126,9,2026-01-25,Bengaluru,Completed,20.52,367.17
+940,204,27,2026-01-31,Pune,Completed,6.38,138.62
+941,156,32,2026-02-08,Delhi,Completed,7.12,176.38
+942,249,47,2026-02-20,Hyderabad,Completed,25.22,407.31
+943,245,62,2026-01-03,Hyderabad,Completed,14.44,270.67
+944,66,49,2026-03-01,Delhi,Completed,5.74,150.31
+945,51,20,2026-01-25,Bengaluru,Completed,11.33,204.33
+946,102,48,2026-02-19,Hyderabad,Completed,13.54,251.49
+947,99,73,2026-01-21,Mumbai,Driver Cancelled,2.2,117.76
+948,193,45,2026-03-07,Hyderabad,Completed,30.67,509.3
+949,63,62,2026-01-05,Delhi,Completed,29.72,495.78
+950,242,19,2026-02-02,Mumbai,Completed,5.58,156.24
+951,235,50,2026-02-20,Pune,Completed,24.9,447.18
+952,178,39,2026-03-06,Pune,Completed,6.14,167.18
+953,223,12,2026-01-14,Pune,Driver Cancelled,24.33,428.34
+954,192,27,2026-02-20,Delhi,Completed,11.68,208.87
+955,135,54,2026-03-25,Delhi,Completed,3.17,129.7
+956,129,15,2026-02-27,Pune,Completed,5.16,162.03
+957,231,53,2026-02-26,Pune,Completed,26.08,416.13
+958,88,4,2026-03-16,Mumbai,Completed,12.71,249.22
+959,171,75,2026-01-06,Bengaluru,Driver Cancelled,9.25,186.11
+960,134,35,2026-03-04,Hyderabad,Completed,25.55,444.33
+961,210,31,2026-02-16,Hyderabad,Driver Cancelled,28.59,466.07
+962,85,13,2026-01-01,Hyderabad,Completed,2.77,131.66
+963,244,32,2026-02-17,Hyderabad,Completed,4.81,146.35
+964,164,42,2026-01-03,Delhi,Completed,21.47,393.62
+965,103,79,2026-01-11,Delhi,Completed,14.77,275.32
+966,188,50,2026-02-07,Pune,Customer Cancelled,27.57,441.71
+967,147,65,2026-01-05,Mumbai,Completed,5.44,148.55
+968,230,58,2026-01-15,Hyderabad,Completed,31.6,523.85
+969,28,56,2026-01-04,Mumbai,Completed,30.27,519.88
+970,122,16,2026-03-27,Mumbai,Completed,7.83,205.37
+971,239,74,2026-03-18,Bengaluru,Customer Cancelled,22.45,394.72
+972,189,49,2026-03-25,Pune,Completed,12.69,275.8
+973,23,44,2026-03-17,Mumbai,Completed,4.59,150.21
+974,189,1,2026-02-09,Bengaluru,Completed,10.71,227.39
+975,174,17,2026-03-08,Pune,Completed,10.91,230.23
+976,242,38,2026-01-29,Hyderabad,Completed,15.28,296.32
+977,180,5,2026-03-18,Delhi,Customer Cancelled,21.63,364.81
+978,218,74,2026-03-03,Mumbai,Completed,31.7,516.03
+979,184,27,2026-01-29,Bengaluru,Completed,26.12,461.45
+980,234,21,2026-01-03,Pune,Customer Cancelled,10.27,210.36
+981,90,51,2026-02-20,Bengaluru,Completed,14.1,271.43
+982,25,17,2026-02-11,Pune,Completed,22.73,410.84
+983,114,62,2026-02-07,Mumbai,Completed,21.29,354.6
+984,148,14,2026-03-28,Mumbai,Completed,1.28,83.63
+985,250,61,2026-01-23,Bengaluru,Completed,29.71,467.39
+986,104,32,2026-01-05,Bengaluru,Completed,31.06,493.09
+987,199,12,2026-03-01,Hyderabad,Completed,6.35,149.04
+988,165,66,2026-01-29,Bengaluru,Completed,4.62,141.96
+989,47,50,2026-03-03,Hyderabad,Customer Cancelled,24.11,398.95
+990,183,69,2026-01-24,Hyderabad,Completed,4.88,158.03
+991,17,67,2026-03-16,Pune,Completed,25.29,438.32
+992,31,24,2026-03-18,Mumbai,Completed,7.43,149.31
+993,42,12,2026-03-13,Delhi,Completed,4.99,161.69
+994,109,1,2026-02-01,Delhi,Completed,12.27,219.32
+995,178,41,2026-03-08,Delhi,Completed,14.79,285.4
+996,49,19,2026-02-08,Mumbai,Completed,26.41,467.4
+997,109,10,2026-03-12,Delhi,Completed,9.6,193.74
+998,109,19,2026-03-10,Mumbai,Completed,3.58,99.0
+999,169,66,2026-03-19,Mumbai,Completed,6.97,165.66
+1000,70,16,2026-03-10,Bengaluru,Completed,30.88,514.94
+1001,70,19,2026-01-29,Delhi,Completed,12.25,217.04
+1002,45,68,2026-02-09,Pune,Driver Cancelled,4.26,149.81
+1003,180,74,2026-02-06,Pune,Completed,16.18,286.43
+1004,89,69,2026-03-12,Pune,Completed,30.34,518.27
+1005,40,17,2026-01-19,Hyderabad,Completed,1.29,94.28
+1006,174,78,2026-02-23,Hyderabad,Completed,12.47,229.65
+1007,242,30,2026-02-09,Bengaluru,Completed,9.55,230.81
+1008,62,12,2026-01-22,Pune,Completed,20.67,337.54
+1009,243,55,2026-03-28,Pune,Completed,26.06,461.12
+1010,179,16,2026-02-21,Bengaluru,Customer Cancelled,31.94,526.06
+1011,183,55,2026-03-31,Pune,Completed,29.24,495.59
+1012,242,68,2026-03-29,Pune,Driver Cancelled,29.53,460.75
+1013,239,68,2026-01-29,Mumbai,Completed,14.91,257.87
+1014,44,48,2026-01-15,Delhi,Completed,2.58,131.39
+1015,124,38,2026-02-03,Mumbai,Completed,27.59,431.38
+1016,165,66,2026-01-05,Hyderabad,Driver Cancelled,10.45,240.39
+1017,2,79,2026-02-28,Delhi,Completed,27.3,443.61
+1018,26,56,2026-03-04,Mumbai,Completed,6.77,144.44
+1019,197,33,2026-01-29,Hyderabad,Completed,29.31,477.08
+1020,113,57,2026-01-21,Mumbai,Completed,17.63,311.28
+1021,73,6,2026-01-18,Hyderabad,Completed,22.99,390.02
+1022,171,35,2026-01-16,Hyderabad,Completed,7.17,172.28
+1023,226,52,2026-03-06,Hyderabad,Completed,11.07,207.21
+1024,176,31,2026-01-07,Delhi,Completed,11.67,232.01
+1025,195,55,2026-02-01,Pune,Completed,9.97,192.97
+1026,180,32,2026-03-27,Hyderabad,Completed,4.57,119.89
+1027,219,76,2026-03-22,Mumbai,Completed,16.57,289.6
+1028,5,79,2026-01-26,Bengaluru,Completed,6.96,189.98
+1029,87,55,2026-03-03,Bengaluru,Completed,20.63,361.86
+1030,183,54,2026-02-01,Delhi,Driver Cancelled,12.27,266.01
+1031,170,42,2026-01-28,Delhi,Completed,6.63,163.78
+1032,86,39,2026-01-15,Bengaluru,Completed,8.82,205.27
+1033,200,76,2026-03-09,Pune,Completed,23.98,401.16
+1034,162,78,2026-01-16,Bengaluru,Completed,3.7,129.06
+1035,26,10,2026-03-11,Pune,Completed,6.98,161.58
+1036,108,71,2026-02-02,Pune,Completed,5.76,179.27
+1037,124,54,2026-03-09,Pune,Completed,4.64,153.46
+1038,145,8,2026-03-30,Mumbai,Completed,5.0,155.74
+1039,113,66,2026-02-19,Pune,Completed,16.92,324.75
+1040,152,2,2026-03-07,Hyderabad,Completed,1.11,88.25
+1041,142,16,2026-01-22,Mumbai,Completed,7.83,157.13
+1042,35,35,2026-01-07,Mumbai,Completed,30.2,522.22
+1043,95,42,2026-01-11,Pune,Completed,11.77,224.3
+1044,3,46,2026-01-29,Delhi,Completed,31.54,496.28
+1045,150,14,2026-03-30,Hyderabad,Driver Cancelled,27.91,487.75
+1046,155,71,2026-01-27,Hyderabad,Completed,8.98,182.86
+1047,115,30,2026-02-25,Delhi,Completed,27.6,439.56
+1048,49,73,2026-03-04,Mumbai,Customer Cancelled,6.74,174.98
+1049,46,51,2026-03-29,Pune,Completed,1.65,78.43
+1050,26,68,2026-01-18,Bengaluru,Driver Cancelled,29.18,486.7
+1051,212,2,2026-03-24,Bengaluru,Completed,12.71,230.21
+1052,248,2,2026-01-14,Pune,Completed,20.45,371.79
+1053,229,57,2026-01-21,Delhi,Completed,5.32,137.73
+1054,6,6,2026-01-14,Pune,Completed,9.29,191.38
+1055,110,50,2026-01-19,Delhi,Completed,29.28,490.97
+1056,29,63,2026-01-22,Bengaluru,Customer Cancelled,28.41,455.09
+1057,20,79,2026-02-12,Bengaluru,Completed,30.65,493.93
+1058,136,43,2026-03-18,Mumbai,Completed,19.74,358.73
+1059,225,14,2026-02-04,Hyderabad,Completed,20.37,366.58
+1060,39,19,2026-02-10,Mumbai,Customer Cancelled,25.45,422.78
+1061,123,9,2026-01-15,Pune,Customer Cancelled,23.36,395.55
+1062,83,17,2026-01-24,Hyderabad,Completed,23.53,393.81
+1063,86,18,2026-03-25,Mumbai,Customer Cancelled,13.83,259.7
+1064,127,69,2026-03-10,Mumbai,Completed,18.03,318.57
+1065,57,12,2026-01-31,Delhi,Customer Cancelled,25.07,396.14
+1066,143,61,2026-01-18,Bengaluru,Completed,31.81,493.62
+1067,249,54,2026-02-01,Mumbai,Customer Cancelled,5.47,167.11
+1068,247,19,2026-02-18,Bengaluru,Completed,2.73,121.51
+1069,215,77,2026-01-21,Bengaluru,Completed,21.55,354.78
+1070,39,24,2026-03-02,Mumbai,Customer Cancelled,18.64,347.11
+1071,106,44,2026-02-26,Bengaluru,Completed,22.66,378.01
+1072,3,51,2026-02-24,Hyderabad,Completed,24.29,415.54
+1073,41,35,2026-01-12,Pune,Completed,22.99,387.63
+1074,48,72,2026-03-19,Bengaluru,Completed,20.19,372.57
+1075,14,48,2026-03-24,Hyderabad,Completed,13.56,245.55
+1076,62,37,2026-01-21,Pune,Completed,25.14,402.82
+1077,164,5,2026-01-31,Delhi,Completed,10.58,197.8
+1078,81,12,2026-02-09,Bengaluru,Completed,25.5,455.93
+1079,92,17,2026-03-31,Bengaluru,Completed,10.75,213.72
+1080,151,49,2026-03-03,Pune,Completed,26.03,457.2
+1081,24,30,2026-01-28,Mumbai,Customer Cancelled,15.36,302.33
+1082,133,78,2026-03-25,Pune,Driver Cancelled,5.99,180.02
+1083,87,38,2026-02-16,Pune,Customer Cancelled,11.58,254.2
+1084,199,50,2026-01-31,Mumbai,Customer Cancelled,14.36,300.88
+1085,146,64,2026-01-13,Bengaluru,Driver Cancelled,19.81,330.18
+1086,249,12,2026-03-05,Bengaluru,Completed,27.98,461.73
+1087,23,10,2026-01-23,Hyderabad,Completed,9.68,194.71
+1088,241,16,2026-03-14,Hyderabad,Driver Cancelled,14.7,252.98
+1089,220,80,2026-03-29,Mumbai,Completed,27.63,456.07
+1090,130,58,2026-02-03,Bengaluru,Completed,12.58,255.25
+1091,40,14,2026-02-07,Hyderabad,Completed,22.69,371.36
+1092,90,60,2026-03-01,Pune,Completed,28.1,487.91
+1093,102,56,2026-01-26,Hyderabad,Driver Cancelled,4.36,124.12
+1094,125,28,2026-03-31,Hyderabad,Driver Cancelled,10.84,203.05
+1095,243,61,2026-01-19,Mumbai,Completed,15.09,273.87
+1096,203,56,2026-03-02,Mumbai,Customer Cancelled,2.93,88.99
+1097,176,55,2026-02-04,Delhi,Driver Cancelled,27.91,470.7
+1098,104,11,2026-02-08,Hyderabad,Completed,3.59,143.18
+1099,230,55,2026-02-13,Delhi,Completed,6.71,147.99
+1100,248,56,2026-02-15,Pune,Customer Cancelled,17.6,312.8
+1101,153,26,2026-01-10,Pune,Customer Cancelled,1.31,97.25
+1102,241,41,2026-01-02,Mumbai,Driver Cancelled,11.04,248.87
+1103,82,15,2026-03-28,Hyderabad,Completed,29.95,478.75
+1104,164,75,2026-01-13,Bengaluru,Completed,27.58,443.14
+1105,56,45,2026-01-27,Mumbai,Completed,25.01,448.59
+1106,79,65,2026-01-16,Hyderabad,Completed,12.28,252.61
+1107,250,43,2026-01-15,Mumbai,Completed,26.67,443.62
+1108,217,56,2026-03-23,Delhi,Completed,17.83,333.24
+1109,167,3,2026-03-20,Hyderabad,Completed,25.98,414.42
+1110,149,5,2026-03-27,Delhi,Completed,4.09,149.1
+1111,244,16,2026-02-14,Hyderabad,Customer Cancelled,4.55,131.41
+1112,190,51,2026-01-01,Delhi,Completed,26.43,458.04
+1113,204,54,2026-03-28,Mumbai,Customer Cancelled,9.2,174.03
+1114,7,20,2026-02-17,Pune,Completed,29.18,498.62
+1115,143,51,2026-01-25,Pune,Completed,18.74,342.8
+1116,187,23,2026-02-21,Delhi,Completed,30.12,495.13
+1117,148,51,2026-03-22,Delhi,Completed,4.92,159.93
+1118,161,76,2026-01-20,Bengaluru,Completed,3.89,133.46
+1119,117,46,2026-01-24,Mumbai,Completed,1.78,105.81
+1120,202,49,2026-02-03,Bengaluru,Customer Cancelled,8.6,180.52
+1121,164,75,2026-01-14,Bengaluru,Completed,29.98,489.97
+1122,20,64,2026-02-16,Mumbai,Completed,9.12,194.17
+1123,54,54,2026-02-18,Delhi,Completed,16.08,304.97
+1124,146,78,2026-01-05,Bengaluru,Completed,1.31,117.02
+1125,134,33,2026-01-16,Mumbai,Completed,19.6,352.74
+1126,30,28,2026-01-04,Delhi,Customer Cancelled,5.72,132.7
+1127,33,35,2026-02-05,Hyderabad,Completed,3.59,106.22
+1128,127,56,2026-03-07,Hyderabad,Completed,10.12,237.41
+1129,101,14,2026-03-16,Pune,Completed,28.51,461.28
+1130,192,35,2026-02-10,Pune,Completed,28.37,448.1
+1131,17,58,2026-01-22,Bengaluru,Completed,12.59,273.96
+1132,248,68,2026-02-15,Hyderabad,Completed,26.63,419.47
+1133,56,48,2026-02-17,Mumbai,Completed,6.76,182.51
+1134,146,42,2026-01-30,Pune,Completed,23.22,373.72
+1135,156,10,2026-03-15,Hyderabad,Completed,4.19,141.18
+1136,12,36,2026-02-23,Bengaluru,Completed,2.54,87.39
+1137,5,74,2026-01-01,Hyderabad,Completed,8.33,177.26
+1138,87,3,2026-01-09,Hyderabad,Completed,17.54,295.79
+1139,21,72,2026-02-10,Hyderabad,Completed,10.83,230.3
+1140,234,16,2026-02-17,Pune,Completed,16.29,278.71
+1141,186,56,2026-01-29,Mumbai,Customer Cancelled,31.8,495.04
+1142,209,69,2026-01-01,Bengaluru,Customer Cancelled,23.45,387.58
+1143,243,39,2026-01-10,Delhi,Completed,25.33,417.73
+1144,118,16,2026-01-17,Delhi,Completed,6.28,180.32
+1145,62,74,2026-03-03,Hyderabad,Completed,21.72,402.78
+1146,183,11,2026-02-15,Pune,Completed,3.85,144.85
+1147,249,64,2026-01-08,Mumbai,Completed,7.38,149.04
+1148,152,68,2026-03-07,Delhi,Completed,4.24,146.19
+1149,34,29,2026-02-16,Hyderabad,Completed,27.28,480.55
+1150,109,22,2026-03-29,Delhi,Completed,13.41,285.07
+1151,62,3,2026-02-28,Mumbai,Completed,28.16,453.91
+1152,22,46,2026-02-25,Mumbai,Driver Cancelled,9.23,182.5
+1153,14,57,2026-02-04,Delhi,Completed,16.57,282.36
+1154,46,77,2026-02-05,Pune,Completed,7.01,176.55
+1155,57,15,2026-01-07,Bengaluru,Driver Cancelled,21.04,371.2
+1156,71,29,2026-03-21,Hyderabad,Completed,8.4,184.15
+1157,44,27,2026-02-14,Delhi,Completed,22.44,397.98
+1158,123,40,2026-03-30,Mumbai,Completed,16.6,286.76
+1159,4,61,2026-02-24,Delhi,Completed,28.9,450.75
+1160,91,61,2026-03-16,Bengaluru,Completed,24.57,415.84
+1161,75,30,2026-03-09,Pune,Completed,1.54,75.76
+1162,126,45,2026-03-11,Delhi,Completed,25.92,444.37
+1163,229,67,2026-03-26,Pune,Completed,11.93,238.66
+1164,220,29,2026-03-26,Mumbai,Driver Cancelled,1.64,87.61
+1165,179,56,2026-02-16,Mumbai,Completed,1.96,113.38
+1166,174,70,2026-02-27,Pune,Customer Cancelled,30.93,487.64
+1167,85,51,2026-03-17,Hyderabad,Completed,29.22,506.07
+1168,157,16,2026-02-25,Hyderabad,Completed,17.12,315.85
+1169,176,19,2026-03-01,Mumbai,Completed,31.05,508.48
+1170,205,38,2026-01-02,Hyderabad,Completed,10.41,192.99
+1171,91,1,2026-01-07,Delhi,Completed,16.14,278.53
+1172,23,35,2026-01-19,Mumbai,Completed,24.84,416.52
+1173,208,50,2026-02-24,Hyderabad,Completed,15.67,317.56
+1174,112,42,2026-03-16,Mumbai,Completed,19.51,355.72
+1175,77,73,2026-03-22,Hyderabad,Completed,7.19,175.68
+1176,129,46,2026-03-01,Delhi,Completed,17.32,311.0
+1177,197,54,2026-01-12,Mumbai,Completed,29.29,488.9
+1178,231,73,2026-02-07,Bengaluru,Completed,12.57,262.52
+1179,133,59,2026-01-07,Bengaluru,Completed,15.35,262.91
+1180,145,62,2026-03-30,Delhi,Customer Cancelled,19.42,364.42
+1181,131,7,2026-03-31,Mumbai,Completed,4.76,140.03
+1182,40,39,2026-03-22,Delhi,Completed,28.75,487.05
+1183,40,78,2026-01-16,Pune,Completed,7.22,151.41
+1184,238,16,2026-02-08,Hyderabad,Completed,16.68,305.12
+1185,175,57,2026-03-26,Pune,Customer Cancelled,17.95,303.08
+1186,37,31,2026-01-22,Pune,Completed,5.53,163.21
+1187,151,64,2026-02-17,Delhi,Completed,9.97,206.1
+1188,73,59,2026-01-16,Pune,Completed,26.22,433.5
+1189,11,46,2026-01-18,Hyderabad,Completed,28.69,495.19
+1190,129,27,2026-02-14,Pune,Customer Cancelled,12.09,235.74
+1191,91,73,2026-02-13,Hyderabad,Completed,2.95,125.64
+1192,18,62,2026-02-18,Hyderabad,Driver Cancelled,21.41,378.06
+1193,130,68,2026-02-03,Mumbai,Completed,6.59,175.64
+1194,12,4,2026-01-21,Mumbai,Completed,20.14,332.27
+1195,207,31,2026-01-14,Mumbai,Driver Cancelled,24.56,428.89
+1196,237,9,2026-01-08,Pune,Driver Cancelled,12.91,239.52
+1197,114,48,2026-03-19,Bengaluru,Completed,2.16,126.04
+1198,143,26,2026-01-26,Delhi,Completed,5.13,143.83
+1199,208,25,2026-01-12,Pune,Customer Cancelled,6.02,130.61
+1200,9,18,2026-01-01,Delhi,Completed,30.75,518.09

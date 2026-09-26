@@ -1,0 +1,32 @@
+services:
+  app:
+    profiles: ["app"]
+    build: .
+    environment:
+      DATABASE_URL: postgresql+psycopg://demo_reader:demo_reader_local@postgres:5432/ola_demo
+      GROQ_API_KEY: ${GROQ_API_KEY:-}
+      GROQ_MODEL: ${GROQ_MODEL:-qwen/qwen3.8-27b}
+    ports:
+      - "127.0.0.1:8503:8501"
+    depends_on:
+      postgres:
+        condition: service_healthy
+  postgres:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: demo_owner
+      POSTGRES_PASSWORD: demo_owner_local
+      POSTGRES_DB: ola_demo
+    ports:
+      - "127.0.0.1:5433:5432"
+    volumes:
+      - ola_pgdata:/var/lib/postgresql/data
+      - ./postgres/init.sql:/docker-entrypoint-initdb.d/01-init.sql:ro
+      - ./data:/seed:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U demo_owner -d ola_demo"]
+      interval: 3s
+      timeout: 3s
+      retries: 20
+volumes:
+  ola_pgdata:

@@ -1,0 +1,84 @@
+{
+  "mode": "offline scripted fixtures",
+  "backend": "sqlite",
+  "passed": 15,
+  "total": 15,
+  "checks": [
+    {
+      "case": "Extract the Pokemon demo API and export CSV.",
+      "passed": true,
+      "detail": "Matches independent expected result"
+    },
+    {
+      "case": "What payment methods are available?",
+      "passed": true,
+      "detail": "Matches independent expected result"
+    },
+    {
+      "case": "Show collected revenue by city.",
+      "passed": true,
+      "detail": "Matches independent expected result"
+    },
+    {
+      "case": "What is the cancellation rate by city?",
+      "passed": true,
+      "detail": "Matches independent expected result"
+    },
+    {
+      "case": "Who are the top 5 riders by collected revenue?",
+      "passed": true,
+      "detail": "Matches independent expected result"
+    },
+    {
+      "case": "Show average rating by vehicle type.",
+      "passed": true,
+      "detail": "Matches independent expected result"
+    },
+    {
+      "case": "How many rides have no payment record?",
+      "passed": true,
+      "detail": "Matches independent expected result"
+    },
+    {
+      "case": "Export completed rides as CSV.",
+      "passed": true,
+      "detail": "Matches independent expected result"
+    },
+    {
+      "case": "Export completed rides longer than 20 km as JSON.",
+      "passed": true,
+      "detail": "Matches independent expected result"
+    },
+    {
+      "case": "Count completed rides by city and export CSV.",
+      "passed": true,
+      "detail": "Matches independent expected result"
+    },
+    {
+      "case": "Block: DROP TABLE rides",
+      "passed": true,
+      "detail": "Deterministic guard check"
+    },
+    {
+      "case": "Block: SELECT * FROM rides; DELETE FROM rides",
+      "passed": true,
+      "detail": "Deterministic guard check"
+    },
+    {
+      "case": "Block: SELECT * FROM sqlite_master",
+      "passed": true,
+      "detail": "Deterministic guard check"
+    },
+    {
+      "case": "Block: SELECT load_extension('x')",
+      "passed": true,
+      "detail": "Deterministic guard check"
+    },
+    {
+      "case": "Block: SELECT * FROM secret.customers",
+      "passed": true,
+      "detail": "Deterministic guard check"
+    }
+  ],
+  "interpretation": "Tests orchestration and tools only. No LLM accuracy is measured."
+}

@@ -1,0 +1,10 @@
+langgraph>=1,<2
+langchain-groq>=1,<2
+pydantic>=2,<3
+pandas>=2.2,<4
+streamlit>=1.45,<2
+sqlglot>=27,<40
+sqlalchemy>=2,<3
+psycopg[binary]>=3,<4
+python-dotenv>=1,<2
+pytest>=8,<10

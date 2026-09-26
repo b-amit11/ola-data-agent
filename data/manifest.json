@@ -1,0 +1,13 @@
+{
+  "synthetic": true,
+  "seed": 42,
+  "period": "2026-01-01 to 2026-03-31",
+  "rows": {
+    "users": 250,
+    "vehicles": 80,
+    "rides": 1200,
+    "payments": 940,
+    "ratings": 940
+  },
+  "note": "Generated educational fixture; no affiliation with Ola; not suitable for business conclusions."
+}
