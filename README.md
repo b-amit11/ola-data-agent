@@ -1,8 +1,17 @@
 # Ola Data Agent / RideOps
 
-A tutorial-inspired data agent for ride-booking analytics: route a request to a SQL analyst or Python ETL workflow, inspect each step, and verify the resulting tables and exports.
+[![tests](https://github.com/b-amit11/ola-data-agent/actions/workflows/ci.yml/badge.svg)](https://github.com/b-amit11/ola-data-agent/actions/workflows/ci.yml)
 
-**Attribution:** inspired by Ansh Lamba’s [Build Ola AI Data Agent](https://www.youtube.com/watch?v=7yOmi4IX-Rs) and the accompanying [AI_Data_Agent repository](https://github.com/anshlambagit/AI_Data_Agent). This is an independent implementation of the core workflow, with explicit differences below. It is not affiliated with Ola and is not a novel-agent-architecture claim.
+A LangGraph data agent for ride-booking analytics: it routes a plain-English request to a SQL analyst or a Python ETL workflow, runs it against a read-only database, and shows every step so the resulting tables and exports can be verified.
+
+**Stack:** Python · LangGraph · LangChain · Groq · Pydantic · SQLAlchemy · PostgreSQL · SQLite · Pandas · Streamlit · Docker · pytest · GitHub Actions
+
+**Highlights**
+- Model output never runs directly: SQL is validated, then executed through a **SELECT-only PostgreSQL role** that the database itself enforces.
+- Bounded agent loops: at most one SQL repair, fixed step budgets, 30 s timeouts, no hidden fallbacks.
+- **43 tests** plus 15 evaluation checks per backend, with answers verified against independent Pandas calculations. CI runs both SQLite and PostgreSQL.
+
+**Attribution:** the core workflow is inspired by Ansh Lamba’s [Build Ola AI Data Agent](https://www.youtube.com/watch?v=7yOmi4IX-Rs) and the accompanying [AI_Data_Agent repository](https://github.com/anshlambagit/AI_Data_Agent). This is an independent implementation with deliberate differences (see [Differences from the tutorial](#differences-from-the-tutorial)). It is not affiliated with Ola and is not a novel-agent-architecture claim.
 
 ## What works
 
